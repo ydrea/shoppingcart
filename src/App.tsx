@@ -54,7 +54,7 @@ const handleAddToCart = (clickedItem: CartItemType) => {
 const handleRemoveFromCart = () => null;
   
 if (isLoading) return <LinearProgress/>
-if (error) return <div> Greska </div>
+if (error) return <div> Greška </div>
 
   return (
     <Wrapper> 
