@@ -8,6 +8,7 @@ import Badge from '@material-ui/core/Badge';
 import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
 
 import Item from './components/Item'
+import Cart from './components/Cart'
 // styles
 import {Wrapper} from './App.styles'
 import { Button } from '@material-ui/core';
@@ -35,7 +36,7 @@ const [cartItems, setCartItems] = useState([] as CartItemType[])
   const {data, isLoading, error} = useQuery <CartItemType[]> ('stvari', getProducts); 
   console.log(data);
 
-  const getTotalItems = (items: CartItemType[]) => null;
+  const getTotalItems = (items: CartItemType[]) => items.reduce((ack: number, item) => ack + item.price, 0);
 
 const handleAddToCart = () => null;
 
@@ -47,7 +48,9 @@ if (error) return <div> Greska </div>
   return (
     <Wrapper> 
       <Drawer anchor='left' open={cartOpen} onClose={()=> setCartOpen(false)}>
-        The Cart
+        <Cart cartItems={cartItems} addToCart={handleAddToCart} 
+        removeFromCart={handleRemoveFromCart}
+        />
       </Drawer>
       <Button onClick={()=>setCartOpen(true)}>
         <Badge badgeContent={getTotalItems(cartItems)} color='error'>
