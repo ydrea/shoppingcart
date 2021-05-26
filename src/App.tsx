@@ -10,6 +10,7 @@ import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
 import Item from './components/Item'
 // styles
 import {Wrapper} from './App.styles'
+import { Button } from '@material-ui/core';
 
 export type CartItemType = {
   id: number;
@@ -28,10 +29,13 @@ await (await fetch ('http://localhost:8000/workshops')).json();
 
 
 const App = () => {
+  const [cartOpen, setCartOpen] = useState(false)
+const [cartItems, setCartItems] = useState([] as CartItemType[]) 
+
   const {data, isLoading, error} = useQuery <CartItemType[]> ('stvari', getProducts); 
   console.log(data);
 
-  const getTotalItems = () => null;
+  const getTotalItems = (items: CartItemType[]) => null;
 
 const handleAddToCart = () => null;
 
@@ -42,6 +46,15 @@ if (error) return <div> Greska </div>
 
   return (
     <Wrapper> 
+      <Drawer anchor='left' open={cartOpen} onClose={()=> setCartOpen(false)}>
+        The Cart
+      </Drawer>
+      <Button onClick={()=>setCartOpen(true)}>
+        <Badge badgeContent={getTotalItems(cartItems)} color='error'>
+<AddShoppingCartIcon />
+
+        </Badge>
+      </Button>
       <Grid container spacing = {3}>
         {data?.map(item => ( 
           <Grid item key={item.id} xs={12} sm={4}> 
