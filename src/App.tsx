@@ -38,7 +38,18 @@ const [cartItems, setCartItems] = useState([] as CartItemType[])
 
   const getTotalItems = (items: CartItemType[]) => items.reduce((ack: number, item) => ack + item.price, 0);
 
-const handleAddToCart = () => null;
+const handleAddToCart = (clickedItem: CartItemType) => {
+  setCartItems(prev => {
+    let isItIn = prev.find(item => clickedItem.id === item.id)
+    if (isItIn) {
+      return prev.map(item => 
+        item.id === clickedItem.id ?
+        {...item, quantity: item.quantity + 1} : item        
+        ) 
+    }
+    return [...prev, {...clickedItem, quantity: 1 }]
+  });
+};
 
 const handleRemoveFromCart = () => null;
   
