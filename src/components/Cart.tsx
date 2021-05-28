@@ -10,12 +10,15 @@ type Props = {
     removeFromCart: (id: number) => void; 
 };
 
-const Cart : React.FC<Props> = ({
-    cartItems, addToCart, removeFromCart
-}) => {
+const Cart: React.FC<Props> = ({cartItems, addToCart, removeFromCart}) => {
+
+const calcTotal = (items: CartItemType[]) => 
+    // console.log(items);
+    items.reduce((acc: number, item) => acc + item.quantity * item.price, 0);
+
     return (
         <Wrapper>
-            <h2> Vaša košarica </h2>
+            <h3> Your shopping cart </h3>
             {cartItems.length === 0 ? <p>prazna košarica</p> : null}
             {cartItems.map(item => (
                 <CartItem 
@@ -25,6 +28,7 @@ const Cart : React.FC<Props> = ({
                 removeFromCart={removeFromCart}
                 />
             ) ) }
+            <h3> Total: {calcTotal(cartItems)} </h3>
         </Wrapper>
     )
 }

@@ -30,13 +30,13 @@ await (await fetch ('http://localhost:8000/workshops')).json();
 
 
 const App = () => {
-  const [cartOpen, setCartOpen] = useState(false)
-const [cartItems, setCartItems] = useState([] as CartItemType[]) 
+  const [cartOpen, setCartOpen] = useState(false);
+  const [cartItems, setCartItems] = useState([] as CartItemType[]);
 
   const {data, isLoading, error} = useQuery <CartItemType[]> ('stvari', getProducts); 
   console.log(data);
 
-  const getTotalItems = (items: CartItemType[]) => items.reduce((ack: number, item) => ack + item.price, 0);
+  const getTotalItems = (items: CartItemType[]) => items.reduce((acc: number, item) => acc + item.quantity, 0);
 
 const handleAddToCart = (clickedItem: CartItemType) => {
   setCartItems(prev => {
@@ -76,15 +76,14 @@ if (error) return <div> Greška </div>
       </Drawer>
       <Button onClick={()=>setCartOpen(true)}>
         <Badge badgeContent={getTotalItems(cartItems)} color='error'>
-<AddShoppingCartIcon />
-
+          <AddShoppingCartIcon />
         </Badge>
       </Button>
       <Grid container spacing = {3}>
         {data?.map(item => ( 
           <Grid item key={item.id} xs={12} sm={4}> 
-<Item item={item} handleAddToCart={handleAddToCart} />
-        </Grid>
+            <Item item={item} handleAddToCart={handleAddToCart} />
+          </Grid>
         ) ) }
       <div>
       <div>
