@@ -74,11 +74,15 @@ if (error) return <div> Greška </div>
         removeFromCart={handleRemoveFromCart}
         />
       </Drawer>
+      <header className='cart-button'>
       <Button onClick={()=>setCartOpen(true)}>
         <Badge badgeContent={getTotalItems(cartItems)} color='error'>
-          <AddShoppingCartIcon />
+          <AddShoppingCartIcon 
+          />
         </Badge>
       </Button>
+      LOGO
+      </header>
       <Grid container spacing = {3}>
         {data?.map(item => ( 
           <Grid item key={item.id} xs={12} sm={4}> 
