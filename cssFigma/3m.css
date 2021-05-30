@@ -1,0 +1,1039 @@
+/* Cart Mobile */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+
+
+/* Navigation Bar */
+
+position: absolute;
+height: 88px;
+left: 0%;
+right: 0%;
+top: calc(50% - 88px/2 - 362px);
+
+
+
+/* Navigation Bar Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Lighter Grey */
+background: #F2F2F2;
+box-shadow: 0px 0.3333px 0px rgba(0, 0, 0, 0.3);
+backdrop-filter: blur(54.3656px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Title */
+
+position: absolute;
+height: 22px;
+left: 33.07%;
+right: 33.07%;
+bottom: 12px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
+text-align: center;
+letter-spacing: -0.408px;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Status Bar */
+
+position: absolute;
+height: 44px;
+left: 0%;
+right: 0%;
+top: calc(50% - 44px/2 - 384px);
+
+
+
+/* Battery */
+
+position: absolute;
+width: 24.33px;
+height: 11.33px;
+left: 336.33px;
+top: 17.33px;
+
+
+
+/* Border */
+
+position: absolute;
+width: 22px;
+height: 11.33px;
+right: 16.67px;
+top: 17.33px;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+/* Darker Grey */
+border: 1px solid #1D1D1B;
+box-sizing: border-box;
+border-radius: 2.66667px;
+
+
+/* Cap */
+
+position: absolute;
+width: 1.33px;
+height: 4px;
+right: 14.34px;
+top: 21px;
+
+/* Darker Grey */
+background: #1D1D1B;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Capacity */
+
+position: absolute;
+width: 18px;
+height: 7.33px;
+right: 18.67px;
+top: 19.33px;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 1.33333px;
+
+
+/* Wifi */
+
+position: absolute;
+width: 15.33px;
+height: 11px;
+right: 43.67px;
+top: 17.33px;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.27%;
+right: 11.64%;
+top: 39.39%;
+bottom: 49.8%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.98%;
+right: 12.36%;
+top: 48.04%;
+bottom: 43.68%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 85.69%;
+right: 13.07%;
+top: 56.69%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular Connection */
+
+position: absolute;
+width: 17px;
+height: 10.67px;
+right: 64px;
+top: 17.67px;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 78.4%;
+right: 20.8%;
+top: 55.3%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 79.64%;
+right: 19.56%;
+top: 50.76%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 80.89%;
+right: 18.31%;
+top: 45.45%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 82.13%;
+right: 17.07%;
+top: 40.15%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Time Style */
+
+position: absolute;
+width: 54px;
+height: 21px;
+left: 21px;
+top: 7.33px;
+
+
+
+/* Time */
+
+position: absolute;
+width: 54px;
+height: 18px;
+left: 0px;
+top: calc(50% - 18px/2 + 5.5px);
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.3px;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has? */
+
+position: absolute;
+width: 294px;
+height: 140px;
+left: 40px;
+top: 823px;
+
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 14.4px;
+line-height: 141%;
+/* or 20px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 40 */
+
+position: absolute;
+width: 375px;
+height: 60px;
+left: 0px;
+top: 88px;
+
+/* White */
+background: #FFFFFF;
+
+
+/* 2 Workshops */
+
+position: absolute;
+left: 21.87%;
+right: 47.47%;
+top: 13.18%;
+bottom: 83.99%;
+
+/* h5 Mobile (h5-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eva:shopping-cart-outline */
+
+position: absolute;
+left: 10.67%;
+right: 80.8%;
+top: 12.56%;
+bottom: 83.5%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 33.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* eva:close-fill */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 303px;
+top: 102px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 24.98%;
+right: 24.98%;
+top: 24.98%;
+bottom: 24.98%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Workshop Card Mobile */
+
+position: absolute;
+width: 335px;
+height: 150px;
+left: 21px;
+top: 168px;
+
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Lighter Grey */
+background: #F2F2F2;
+border-radius: 6px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 68.66%;
+top: 0%;
+bottom: 0%;
+
+background: url(.jpg);
+border-radius: 8px 0px 0px 8px;
+
+
+/* Interaction Dsgn Workshop */
+
+position: absolute;
+left: 37.31%;
+right: 14.93%;
+top: 13.33%;
+bottom: 54.67%;
+
+/* h4 Mobile (h4-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.9px;
+line-height: 125%;
+/* or 24px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 450,00 */
+
+position: absolute;
+left: 58.21%;
+right: 21.79%;
+top: 63.33%;
+bottom: 20%;
+
+/* h3 Mobile (h3-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 20.3px;
+line-height: 125%;
+/* or 25px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* EUR */
+
+position: absolute;
+left: 79.1%;
+right: 12.84%;
+top: 67.33%;
+bottom: 21.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 42 */
+
+position: absolute;
+visibility: hidden;
+left: 82.09%;
+right: 5.97%;
+top: 60%;
+bottom: 13.33%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 4px;
+
+
+/* eva:shopping-cart-outline */
+
+position: absolute;
+visibility: hidden;
+left: 83.28%;
+right: 7.16%;
+top: 62.67%;
+bottom: 16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 33.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* eva:trash-2-outline */
+
+position: absolute;
+left: 86.87%;
+right: 5.97%;
+top: 13.33%;
+bottom: 70.67%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Light Grey */
+background: #7F7F7F;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+/* Light Grey */
+background: #7F7F7F;
+
+
+/* Rectangle 46 */
+
+position: absolute;
+left: 37.31%;
+right: 44.78%;
+top: 56.67%;
+bottom: 13.33%;
+
+/* White */
+background: #FFFFFF;
+/* Blue */
+border: 1px solid #0097CC;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* 1 */
+
+position: absolute;
+left: 41.19%;
+right: 55.22%;
+top: 64%;
+bottom: 20.67%;
+
+/* h5 Mobile (h5-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+text-align: right;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eva:chevron-down-fill */
+
+position: absolute;
+left: 45.07%;
+right: 47.76%;
+top: 63.33%;
+bottom: 20.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.15%;
+right: 28.98%;
+top: 39.57%;
+bottom: 35.42%;
+
+background: #000000;
+
+
+/* Workshop Card Mobile */
+
+position: absolute;
+width: 335px;
+height: 150px;
+left: 21px;
+top: 338px;
+
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Lighter Grey */
+background: #F2F2F2;
+border-radius: 6px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 68.66%;
+top: 0%;
+bottom: 0%;
+
+background: url(.jpg);
+border-radius: 8px 0px 0px 8px;
+
+
+/* Interaction Dsgn Workshop */
+
+position: absolute;
+left: 37.31%;
+right: 14.93%;
+top: 13.33%;
+bottom: 54.67%;
+
+/* h4 Mobile (h4-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.9px;
+line-height: 125%;
+/* or 24px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 450,00 */
+
+position: absolute;
+left: 58.21%;
+right: 21.79%;
+top: 63.33%;
+bottom: 20%;
+
+/* h3 Mobile (h3-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 20.3px;
+line-height: 125%;
+/* or 25px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* EUR */
+
+position: absolute;
+left: 79.1%;
+right: 12.84%;
+top: 67.33%;
+bottom: 21.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 42 */
+
+position: absolute;
+visibility: hidden;
+left: 82.09%;
+right: 5.97%;
+top: 60%;
+bottom: 13.33%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 4px;
+
+
+/* eva:shopping-cart-outline */
+
+position: absolute;
+visibility: hidden;
+left: 83.28%;
+right: 7.16%;
+top: 62.67%;
+bottom: 16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 33.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* eva:trash-2-outline */
+
+position: absolute;
+left: 86.87%;
+right: 5.97%;
+top: 13.33%;
+bottom: 70.67%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Light Grey */
+background: #7F7F7F;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 45.83%;
+bottom: 29.17%;
+
+/* Light Grey */
+background: #7F7F7F;
+
+
+/* Rectangle 46 */
+
+position: absolute;
+left: 37.31%;
+right: 44.78%;
+top: 56.67%;
+bottom: 13.33%;
+
+/* White */
+background: #FFFFFF;
+/* Blue */
+border: 1px solid #0097CC;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* 1 */
+
+position: absolute;
+left: 41.19%;
+right: 55.22%;
+top: 64%;
+bottom: 20.67%;
+
+/* h5 Mobile (h5-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+text-align: right;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eva:chevron-down-fill */
+
+position: absolute;
+left: 45.07%;
+right: 47.76%;
+top: 63.33%;
+bottom: 20.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.15%;
+right: 28.98%;
+top: 39.57%;
+bottom: 35.42%;
+
+background: #000000;
+
+
+/* 4000,00 */
+
+position: absolute;
+width: 124px;
+height: 40px;
+left: 40px;
+top: 545px;
+
+/* h2 Mobile (h2-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 125%;
+/* identical to box height, or 40px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* SUBTOTAL */
+
+position: absolute;
+left: 10.67%;
+right: 70.93%;
+top: 65.02%;
+bottom: 32.88%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* EUR */
+
+position: absolute;
+left: 45.07%;
+right: 44.8%;
+top: 68.72%;
+bottom: 28.33%;
+
+/* h4 Mobile (h4-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.9px;
+line-height: 125%;
+/* identical to box height, or 24px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 295px;
+height: 60px;
+left: 40px;
+top: 662px;
+
+/* Blue */
+background: #0097CC;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 6px;
+
+
+/* Checkout */
+
+position: absolute;
+left: 38.93%;
+right: 38.67%;
+top: 83.87%;
+bottom: 13.3%;
+
+/* h5 Mobile (h5-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+text-align: center;
+
+/* White */
+color: #FFFFFF;
+

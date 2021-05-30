@@ -1,0 +1,977 @@
+/* Checkout form Mobile */
+
+position: relative;
+width: 375px;
+height: 1104px;
+
+background: #FFFFFF;
+
+
+/* Navigation Bar */
+
+position: absolute;
+height: 88px;
+left: 0%;
+right: 0%;
+top: calc(50% - 88px/2 - 508px);
+
+
+
+/* Navigation Bar Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Yellow */
+background: #FFC80C;
+box-shadow: 0px 0.3333px 0px rgba(0, 0, 0, 0.3);
+backdrop-filter: blur(54.3656px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Rectangle 48 */
+
+position: absolute;
+width: 375px;
+height: 1060px;
+left: 0px;
+top: 44px;
+
+/* White */
+background: #FFFFFF;
+/* Drop Shadow Cart */
+box-shadow: -1px -2px 16px rgba(127, 127, 127, 0.25);
+
+
+/* Check:active */
+
+position: absolute;
+width: 90px;
+height: 32px;
+left: 40px;
+top: 947px;
+
+
+
+/* Rectangle 45 */
+
+position: absolute;
+left: 0%;
+right: 64.44%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0097CC;
+border-radius: 4px;
+
+
+/* eva:checkmark-fill */
+
+position: absolute;
+left: 4.44%;
+right: 68.89%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.66%;
+right: 16.5%;
+top: 24.82%;
+bottom: 25%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* I agree */
+
+position: absolute;
+left: 46.67%;
+right: 0%;
+top: 21.88%;
+bottom: 18.75%;
+
+/* h6 SemiBold */
+font-family: Livvic;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Input Field:active */
+
+position: absolute;
+width: 295px;
+height: 74px;
+left: 40px;
+top: 219px;
+
+
+
+/* First Name */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 77.03%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 44 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 27.03%;
+bottom: 0%;
+
+/* Lighter Grey */
+background: #F2F2F2;
+
+
+/* Marko */
+
+position: absolute;
+left: 6.78%;
+right: 52.88%;
+top: 45.95%;
+bottom: 22.97%;
+
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Line 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+
+/* Blue */
+border: 2px solid #0097CC;
+
+
+/* eva:close-fill */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 560px;
+top: 88px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 24.98%;
+right: 24.98%;
+top: 24.98%;
+bottom: 24.98%;
+
+background: #000000;
+
+
+/* Checkout */
+
+position: absolute;
+width: 146px;
+height: 40px;
+left: 40px;
+top: 84px;
+
+/* h2 Mobile (h2-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 125%;
+/* identical to box height, or 40px */
+
+color: #000000;
+
+
+
+/* What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing. */
+
+position: absolute;
+width: 225px;
+height: 51px;
+left: 39px;
+top: 134px;
+
+/* h6 SemiBold Mobile */
+font-family: Livvic;
+font-style: normal;
+font-weight: 600;
+font-size: 13.5px;
+line-height: 125%;
+/* or 17px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 295px;
+height: 60px;
+left: 41px;
+top: 999px;
+
+/* Light Yellow */
+background: #FFCE25;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 6px;
+
+
+/* Checkout */
+
+position: absolute;
+left: 39.2%;
+right: 38.4%;
+top: 92.57%;
+bottom: 5.34%;
+
+/* h5 Mobile (h5-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+text-align: center;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Last Name */
+
+position: absolute;
+left: 10.67%;
+right: 70.4%;
+top: 29.26%;
+bottom: 69.2%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Last name contains invalid symbol */
+
+position: absolute;
+left: 30.67%;
+right: 10.67%;
+top: 29.26%;
+bottom: 69.2%;
+
+/* h6 SemiBold Mobile */
+font-family: Livvic;
+font-style: normal;
+font-weight: 600;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+text-align: right;
+
+/* Red */
+color: #FF392E;
+
+
+
+/* Type your last name here */
+
+position: absolute;
+left: 10.93%;
+right: 15.73%;
+top: 32.34%;
+bottom: 65.58%;
+
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Line 3 */
+
+position: absolute;
+left: 10.93%;
+right: 10.4%;
+top: 35.96%;
+bottom: 64.04%;
+
+/* Red */
+border: 2px solid #FF392E;
+
+
+/* Input Field:active */
+
+position: absolute;
+width: 296px;
+height: 74px;
+left: 40px;
+top: 427px;
+
+
+
+/* Email Address */
+
+position: absolute;
+left: 0.34%;
+right: 0%;
+top: 0%;
+bottom: 77.03%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Type your email address here */
+
+position: absolute;
+left: 0.34%;
+right: 6.76%;
+top: 45.95%;
+bottom: 22.97%;
+
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Line 3 */
+
+position: absolute;
+left: 0.34%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+
+/* Light Grey */
+border: 2px solid #7F7F7F;
+
+
+/* Input Field:active */
+
+position: absolute;
+width: 296px;
+height: 74px;
+left: 40px;
+top: 531px;
+
+
+
+/* Date of Birth */
+
+position: absolute;
+left: 0.34%;
+right: 0%;
+top: 0%;
+bottom: 77.03%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* DD/MM/YYYY */
+
+position: absolute;
+left: 9.8%;
+right: -2.7%;
+top: 45.95%;
+bottom: 22.97%;
+
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Line 3 */
+
+position: absolute;
+left: 0.34%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+
+/* Light Grey */
+border: 2px solid #7F7F7F;
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 0%;
+right: 91.89%;
+top: 44.59%;
+bottom: 22.97%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+background: #000000;
+
+
+/* Input Field:active */
+
+position: absolute;
+width: 296px;
+height: 74px;
+left: 40px;
+top: 635px;
+
+
+
+/* Gender */
+
+position: absolute;
+left: 0.34%;
+right: 0%;
+top: 0%;
+bottom: 77.03%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Choose your gender */
+
+position: absolute;
+left: 0%;
+right: 7.09%;
+top: 45.95%;
+bottom: 22.97%;
+
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Line 3 */
+
+position: absolute;
+left: 0.34%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+
+/* Light Grey */
+border: 2px solid #7F7F7F;
+
+
+/* eva:chevron-down-outline */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 272px;
+top: 33px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.15%;
+right: 28.98%;
+top: 39.57%;
+bottom: 35.42%;
+
+background: #000000;
+
+
+/* Input Field:active */
+
+position: absolute;
+width: 296px;
+height: 74px;
+left: 40px;
+top: 739px;
+
+
+
+/* Address */
+
+position: absolute;
+left: 0.34%;
+right: 0%;
+top: 0%;
+bottom: 77.03%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Type your address here */
+
+position: absolute;
+left: 0.34%;
+right: 6.76%;
+top: 45.95%;
+bottom: 22.97%;
+
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Line 3 */
+
+position: absolute;
+left: 0.34%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+
+/* Light Grey */
+border: 2px solid #7F7F7F;
+
+
+/* Input Field:active */
+
+position: absolute;
+width: 296px;
+height: 74px;
+left: 40px;
+top: 843px;
+
+
+
+/* Zip Code */
+
+position: absolute;
+left: 0.34%;
+right: 0%;
+top: 0%;
+bottom: 77.03%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eg. 21310 */
+
+position: absolute;
+left: 0.34%;
+right: 6.76%;
+top: 45.95%;
+bottom: 22.97%;
+
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Line 3 */
+
+position: absolute;
+left: 0.34%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+
+/* Light Grey */
+border: 2px solid #7F7F7F;
+
+
+/* eva:close-fill */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 323px;
+top: 84px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 24.98%;
+right: 24.98%;
+top: 24.98%;
+bottom: 24.98%;
+
+background: #000000;
+
+
+/* Status Bar */
+
+position: absolute;
+height: 44px;
+left: 0%;
+right: 0%;
+top: calc(50% - 44px/2 - 530px);
+
+
+
+/* Battery */
+
+position: absolute;
+width: 24.33px;
+height: 11.33px;
+left: 336.33px;
+top: 17.33px;
+
+
+
+/* Border */
+
+position: absolute;
+width: 22px;
+height: 11.33px;
+right: 16.67px;
+top: 17.33px;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+/* Darker Grey */
+border: 1px solid #1D1D1B;
+box-sizing: border-box;
+border-radius: 2.66667px;
+
+
+/* Cap */
+
+position: absolute;
+width: 1.33px;
+height: 4px;
+right: 14.34px;
+top: 21px;
+
+/* Darker Grey */
+background: #1D1D1B;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Capacity */
+
+position: absolute;
+width: 18px;
+height: 7.33px;
+right: 18.67px;
+top: 19.33px;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 1.33333px;
+
+
+/* Wifi */
+
+position: absolute;
+width: 15.33px;
+height: 11px;
+right: 43.67px;
+top: 17.33px;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.27%;
+right: 11.64%;
+top: 39.39%;
+bottom: 49.8%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.98%;
+right: 12.36%;
+top: 48.04%;
+bottom: 43.68%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 85.69%;
+right: 13.07%;
+top: 56.69%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular Connection */
+
+position: absolute;
+width: 17px;
+height: 10.67px;
+right: 64px;
+top: 17.67px;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 78.4%;
+right: 20.8%;
+top: 55.3%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 79.64%;
+right: 19.56%;
+top: 50.76%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 80.89%;
+right: 18.31%;
+top: 45.45%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 82.13%;
+right: 17.07%;
+top: 40.15%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Time Style */
+
+position: absolute;
+width: 54px;
+height: 21px;
+left: 21px;
+top: 7.33px;
+
+
+
+/* Time */
+
+position: absolute;
+width: 54px;
+height: 18px;
+left: 0px;
+top: calc(50% - 18px/2 + 5.5px);
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.3px;
+
+/* Darker Grey */
+color: #1D1D1B;
+

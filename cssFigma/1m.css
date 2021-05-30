@@ -1,0 +1,2748 @@
+/* Workshop listing Mobile */
+
+position: relative;
+width: 375px;
+height: 1416px;
+
+background: #FFFFFF;
+
+
+/* Navigation Bar */
+
+position: absolute;
+height: 88px;
+left: 0%;
+right: 0%;
+top: calc(50% - 88px/2 - 664px);
+
+
+
+/* Navigation Bar Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Lighter Grey */
+background: #F2F2F2;
+box-shadow: 0px 0.3333px 0px rgba(0, 0, 0, 0.3);
+backdrop-filter: blur(54.3656px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Title */
+
+position: absolute;
+height: 22px;
+left: 33.07%;
+right: 33.07%;
+bottom: 12px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
+text-align: center;
+letter-spacing: -0.408px;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Status Bar */
+
+position: absolute;
+height: 44px;
+left: 0%;
+right: 0%;
+top: calc(50% - 44px/2 - 686px);
+
+
+
+/* Battery */
+
+position: absolute;
+width: 24.33px;
+height: 11.33px;
+left: 336.33px;
+top: 17.33px;
+
+
+
+/* Border */
+
+position: absolute;
+width: 22px;
+height: 11.33px;
+right: 16.67px;
+top: 17.33px;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+/* Darker Grey */
+border: 1px solid #1D1D1B;
+box-sizing: border-box;
+border-radius: 2.66667px;
+
+
+/* Cap */
+
+position: absolute;
+width: 1.33px;
+height: 4px;
+right: 14.34px;
+top: 21px;
+
+/* Darker Grey */
+background: #1D1D1B;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Capacity */
+
+position: absolute;
+width: 18px;
+height: 7.33px;
+right: 18.67px;
+top: 19.33px;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 1.33333px;
+
+
+/* Wifi */
+
+position: absolute;
+width: 15.33px;
+height: 11px;
+right: 43.67px;
+top: 17.33px;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.27%;
+right: 11.64%;
+top: 39.39%;
+bottom: 49.8%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.98%;
+right: 12.36%;
+top: 48.04%;
+bottom: 43.68%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 85.69%;
+right: 13.07%;
+top: 56.69%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular Connection */
+
+position: absolute;
+width: 17px;
+height: 10.67px;
+right: 64px;
+top: 17.67px;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 78.4%;
+right: 20.8%;
+top: 55.3%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 79.64%;
+right: 19.56%;
+top: 50.76%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 80.89%;
+right: 18.31%;
+top: 45.45%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 82.13%;
+right: 17.07%;
+top: 40.15%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Time Style */
+
+position: absolute;
+width: 54px;
+height: 21px;
+left: 21px;
+top: 7.33px;
+
+
+
+/* Time */
+
+position: absolute;
+width: 54px;
+height: 18px;
+left: 0px;
+top: calc(50% - 18px/2 + 5.5px);
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.3px;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 40 */
+
+position: absolute;
+width: 375px;
+height: 60px;
+left: 0px;
+top: 88px;
+
+/* Light Yellow */
+background: #FFCE25;
+
+
+/* eva:shopping-cart-outline */
+
+position: absolute;
+left: 86.13%;
+right: 5.33%;
+top: 7.2%;
+bottom: 90.54%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 33.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Group */
+
+position: absolute;
+width: 90px;
+height: 40px;
+left: 20px;
+top: 98px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 5.33%;
+right: 75.83%;
+top: 6.92%;
+bottom: 91.29%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Group */
+
+position: absolute;
+left: 5.7%;
+right: 76.2%;
+top: 7.01%;
+bottom: 91.41%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.36%;
+right: 76.2%;
+top: 7.01%;
+bottom: 91.41%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.7%;
+right: 90.24%;
+top: 7.12%;
+bottom: 91.64%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.96%;
+right: 87.08%;
+top: 7.15%;
+bottom: 91.57%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 11.5%;
+right: 70.67%;
+top: 8.8%;
+bottom: 90.25%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.5%;
+right: 84.69%;
+top: 8.83%;
+bottom: 90.48%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.16%;
+right: 82.88%;
+top: 9.01%;
+bottom: 90.48%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.41%;
+right: 81.38%;
+top: 9.02%;
+bottom: 90.49%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.91%;
+right: 79.11%;
+top: 8.8%;
+bottom: 90.49%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.93%;
+right: 77.37%;
+top: 9.01%;
+bottom: 90.47%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.96%;
+right: 75.2%;
+top: 8.8%;
+bottom: 90.49%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.1%;
+right: 72.95%;
+top: 9.01%;
+bottom: 90.48%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.37%;
+right: 70.67%;
+top: 9.01%;
+bottom: 90.25%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Design */
+
+position: absolute;
+left: 14.67%;
+right: 69.07%;
+top: 12.22%;
+bottom: 86.16%;
+
+/* h5 Mobile (h5-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* eva:chevron-down-outline */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 20px;
+top: 168px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.15%;
+right: 28.99%;
+top: 39.57%;
+bottom: 35.42%;
+
+/* Blue */
+background: #0097CC;
+
+
+/* Displayed: 13 */
+
+position: absolute;
+width: 89px;
+height: 17px;
+left: 42px;
+top: 250px;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Workshop Card Mobile */
+
+position: absolute;
+width: 335px;
+height: 150px;
+left: 20px;
+top: 285px;
+
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 6px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 68.66%;
+top: 0%;
+bottom: 0%;
+
+background: url(.jpg);
+border-radius: 8px 0px 0px 8px;
+
+
+/* Rectangle 43 */
+
+position: absolute;
+left: 26.27%;
+right: 64.18%;
+top: 8.67%;
+bottom: 70%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 27.46%;
+right: 65.37%;
+top: 11.33%;
+bottom: 72.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 38.81%;
+right: 5.97%;
+top: 28%;
+bottom: 40%;
+
+/* h4 Mobile (h4-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.9px;
+line-height: 125%;
+/* or 24px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 450,00 */
+
+position: absolute;
+left: 38.81%;
+right: 41.19%;
+top: 66.67%;
+bottom: 16.67%;
+
+/* h3 Mobile (h3-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 20.3px;
+line-height: 125%;
+/* or 25px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 45.07%;
+right: 34.63%;
+top: 13.33%;
+bottom: 75.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 74.63%;
+right: 11.94%;
+top: 13.33%;
+bottom: 75.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* EUR */
+
+position: absolute;
+left: 59.7%;
+right: 32.24%;
+top: 70.67%;
+bottom: 18%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 38.81%;
+right: 55.82%;
+top: 13.33%;
+bottom: 74.67%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Rectangle 42 */
+
+position: absolute;
+left: 82.09%;
+right: 5.97%;
+top: 60%;
+bottom: 13.33%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 4px;
+
+
+/* eva:shopping-cart-outline */
+
+position: absolute;
+left: 83.28%;
+right: 7.16%;
+top: 62.67%;
+bottom: 16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 33.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 68.36%;
+right: 26.27%;
+top: 12.67%;
+bottom: 75.33%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Workshop Card Mobile */
+
+position: absolute;
+width: 335px;
+height: 150px;
+left: 20px;
+top: 455px;
+
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 6px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 68.66%;
+top: 0%;
+bottom: 0%;
+
+background: url(.jpg);
+border-radius: 8px 0px 0px 8px;
+
+
+/* Rectangle 43 */
+
+position: absolute;
+left: 26.27%;
+right: 64.18%;
+top: 8.67%;
+bottom: 70%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 27.46%;
+right: 65.37%;
+top: 11.33%;
+bottom: 72.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 38.81%;
+right: 5.97%;
+top: 28%;
+bottom: 40%;
+
+/* h4 Mobile (h4-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.9px;
+line-height: 125%;
+/* or 24px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 450,00 */
+
+position: absolute;
+left: 38.81%;
+right: 41.19%;
+top: 66.67%;
+bottom: 16.67%;
+
+/* h3 Mobile (h3-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 20.3px;
+line-height: 125%;
+/* or 25px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 45.07%;
+right: 34.63%;
+top: 13.33%;
+bottom: 75.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 74.63%;
+right: 11.94%;
+top: 13.33%;
+bottom: 75.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* EUR */
+
+position: absolute;
+left: 59.7%;
+right: 32.24%;
+top: 70.67%;
+bottom: 18%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 38.81%;
+right: 55.82%;
+top: 13.33%;
+bottom: 74.67%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Rectangle 42 */
+
+position: absolute;
+left: 82.09%;
+right: 5.97%;
+top: 60%;
+bottom: 13.33%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 4px;
+
+
+/* eva:shopping-cart-outline */
+
+position: absolute;
+left: 83.28%;
+right: 7.16%;
+top: 62.67%;
+bottom: 16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 33.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 68.36%;
+right: 26.27%;
+top: 12.67%;
+bottom: 75.33%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Workshop Card Mobile */
+
+position: absolute;
+width: 335px;
+height: 150px;
+left: 20px;
+top: 625px;
+
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 6px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 68.66%;
+top: 0%;
+bottom: 0%;
+
+background: url(.jpg);
+border-radius: 8px 0px 0px 8px;
+
+
+/* Rectangle 43 */
+
+position: absolute;
+left: 26.27%;
+right: 64.18%;
+top: 8.67%;
+bottom: 70%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 27.46%;
+right: 65.37%;
+top: 11.33%;
+bottom: 72.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 38.81%;
+right: 5.97%;
+top: 28%;
+bottom: 40%;
+
+/* h4 Mobile (h4-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.9px;
+line-height: 125%;
+/* or 24px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 450,00 */
+
+position: absolute;
+left: 38.81%;
+right: 41.19%;
+top: 66.67%;
+bottom: 16.67%;
+
+/* h3 Mobile (h3-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 20.3px;
+line-height: 125%;
+/* or 25px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 45.07%;
+right: 34.63%;
+top: 13.33%;
+bottom: 75.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 74.63%;
+right: 11.94%;
+top: 13.33%;
+bottom: 75.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* EUR */
+
+position: absolute;
+left: 59.7%;
+right: 32.24%;
+top: 70.67%;
+bottom: 18%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 38.81%;
+right: 55.82%;
+top: 13.33%;
+bottom: 74.67%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Rectangle 42 */
+
+position: absolute;
+left: 82.09%;
+right: 5.97%;
+top: 60%;
+bottom: 13.33%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 4px;
+
+
+/* eva:shopping-cart-outline */
+
+position: absolute;
+left: 83.28%;
+right: 7.16%;
+top: 62.67%;
+bottom: 16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 33.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 68.36%;
+right: 26.27%;
+top: 12.67%;
+bottom: 75.33%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Workshop Card Mobile */
+
+position: absolute;
+width: 335px;
+height: 150px;
+left: 20px;
+top: 793px;
+
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 6px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 68.66%;
+top: 0%;
+bottom: 0%;
+
+background: url(.jpg);
+border-radius: 8px 0px 0px 8px;
+
+
+/* Rectangle 43 */
+
+position: absolute;
+left: 26.27%;
+right: 64.18%;
+top: 8.67%;
+bottom: 70%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 27.46%;
+right: 65.37%;
+top: 11.33%;
+bottom: 72.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 38.81%;
+right: 5.97%;
+top: 28%;
+bottom: 40%;
+
+/* h4 Mobile (h4-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.9px;
+line-height: 125%;
+/* or 24px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 450,00 */
+
+position: absolute;
+left: 38.81%;
+right: 41.19%;
+top: 66.67%;
+bottom: 16.67%;
+
+/* h3 Mobile (h3-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 20.3px;
+line-height: 125%;
+/* or 25px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 45.07%;
+right: 34.63%;
+top: 13.33%;
+bottom: 75.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 74.63%;
+right: 11.94%;
+top: 13.33%;
+bottom: 75.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* EUR */
+
+position: absolute;
+left: 59.7%;
+right: 32.24%;
+top: 70.67%;
+bottom: 18%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 38.81%;
+right: 55.82%;
+top: 13.33%;
+bottom: 74.67%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Rectangle 42 */
+
+position: absolute;
+left: 82.09%;
+right: 5.97%;
+top: 60%;
+bottom: 13.33%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 4px;
+
+
+/* eva:shopping-cart-outline */
+
+position: absolute;
+left: 83.28%;
+right: 7.16%;
+top: 62.67%;
+bottom: 16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 33.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 68.36%;
+right: 26.27%;
+top: 12.67%;
+bottom: 75.33%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Workshop Card Mobile */
+
+position: absolute;
+width: 335px;
+height: 150px;
+left: 20px;
+top: 963px;
+
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 6px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 68.66%;
+top: 0%;
+bottom: 0%;
+
+background: url(.jpg);
+border-radius: 8px 0px 0px 8px;
+
+
+/* Rectangle 43 */
+
+position: absolute;
+left: 26.27%;
+right: 64.18%;
+top: 8.67%;
+bottom: 70%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 27.46%;
+right: 65.37%;
+top: 11.33%;
+bottom: 72.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 38.81%;
+right: 5.97%;
+top: 28%;
+bottom: 40%;
+
+/* h4 Mobile (h4-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.9px;
+line-height: 125%;
+/* or 24px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 450,00 */
+
+position: absolute;
+left: 38.81%;
+right: 41.19%;
+top: 66.67%;
+bottom: 16.67%;
+
+/* h3 Mobile (h3-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 20.3px;
+line-height: 125%;
+/* or 25px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 45.07%;
+right: 34.63%;
+top: 13.33%;
+bottom: 75.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 74.63%;
+right: 11.94%;
+top: 13.33%;
+bottom: 75.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* EUR */
+
+position: absolute;
+left: 59.7%;
+right: 32.24%;
+top: 70.67%;
+bottom: 18%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 38.81%;
+right: 55.82%;
+top: 13.33%;
+bottom: 74.67%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Rectangle 42 */
+
+position: absolute;
+left: 82.09%;
+right: 5.97%;
+top: 60%;
+bottom: 13.33%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 4px;
+
+
+/* eva:shopping-cart-outline */
+
+position: absolute;
+left: 83.28%;
+right: 7.16%;
+top: 62.67%;
+bottom: 16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 33.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 68.36%;
+right: 26.27%;
+top: 12.67%;
+bottom: 75.33%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Workshop Card Mobile */
+
+position: absolute;
+width: 335px;
+height: 150px;
+left: 20px;
+top: 1133px;
+
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 6px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 68.66%;
+top: 0%;
+bottom: 0%;
+
+background: url(.jpg);
+border-radius: 8px 0px 0px 8px;
+
+
+/* Rectangle 43 */
+
+position: absolute;
+left: 26.27%;
+right: 64.18%;
+top: 8.67%;
+bottom: 70%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 27.46%;
+right: 65.37%;
+top: 11.33%;
+bottom: 72.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 38.81%;
+right: 5.97%;
+top: 28%;
+bottom: 40%;
+
+/* h4 Mobile (h4-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.9px;
+line-height: 125%;
+/* or 24px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 450,00 */
+
+position: absolute;
+left: 38.81%;
+right: 41.19%;
+top: 66.67%;
+bottom: 16.67%;
+
+/* h3 Mobile (h3-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 20.3px;
+line-height: 125%;
+/* or 25px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 45.07%;
+right: 34.63%;
+top: 13.33%;
+bottom: 75.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 74.63%;
+right: 11.94%;
+top: 13.33%;
+bottom: 75.33%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* EUR */
+
+position: absolute;
+left: 59.7%;
+right: 32.24%;
+top: 70.67%;
+bottom: 18%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 38.81%;
+right: 55.82%;
+top: 13.33%;
+bottom: 74.67%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Rectangle 42 */
+
+position: absolute;
+left: 82.09%;
+right: 5.97%;
+top: 60%;
+bottom: 13.33%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 4px;
+
+
+/* eva:shopping-cart-outline */
+
+position: absolute;
+left: 83.28%;
+right: 7.16%;
+top: 62.67%;
+bottom: 16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 33.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 68.36%;
+right: 26.27%;
+top: 12.67%;
+bottom: 75.33%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Workshops */
+
+position: absolute;
+width: 173px;
+height: 40px;
+left: 42px;
+top: 210px;
+
+/* h2 Mobile (h2-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 125%;
+/* identical to box height, or 40px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Load More */
+
+position: absolute;
+left: 37.33%;
+right: 37.33%;
+top: 92.73%;
+bottom: 5.65%;
+
+/* h5 Mobile (h5-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+text-align: center;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Line 4 */
+
+position: absolute;
+width: 95px;
+height: 0px;
+left: 139px;
+top: 1341px;
+
+/* Blue */
+border: 2px solid #0097CC;
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 375px;
+height: 40px;
+left: 0px;
+top: 1376px;
+
+/* Lighter Grey */
+background: #F2F2F2;
+
+
+/* © TINEL Meetup 2020. */
+
+position: absolute;
+left: 10.67%;
+right: 51.47%;
+top: 97.95%;
+bottom: 0.85%;
+
+/* h6 SemiBold Mobile */
+font-family: Livvic;
+font-style: normal;
+font-weight: 600;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Light Grey */
+color: #7F7F7F;
+

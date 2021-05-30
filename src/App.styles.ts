@@ -5,10 +5,12 @@ export const Wrapper = styled.div`
     margin: 5px;
 
 .cart-button {
+    margin-top: 20px;
+    padding: 20px;
+
     display: flex;
     flex-direction: row;
-    position: -webkit-sticky;
-    position: sticky;
+    position: fixed;
     // display: none
 }
 

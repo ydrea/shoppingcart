@@ -1,0 +1,1041 @@
+/* Workshop details sticky Mobile */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+
+
+/* Navigation Bar */
+
+position: absolute;
+height: 88px;
+left: 0%;
+right: 0%;
+top: calc(50% - 88px/2 - 362px);
+
+
+
+/* Navigation Bar Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Lighter Grey */
+background: #F2F2F2;
+box-shadow: 0px 0.3333px 0px rgba(0, 0, 0, 0.3);
+backdrop-filter: blur(54.3656px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Title */
+
+position: absolute;
+height: 22px;
+left: 33.07%;
+right: 33.07%;
+bottom: 12px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
+text-align: center;
+letter-spacing: -0.408px;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Status Bar */
+
+position: absolute;
+height: 44px;
+left: 0%;
+right: 0%;
+top: calc(50% - 44px/2 - 384px);
+
+
+
+/* Battery */
+
+position: absolute;
+width: 24.33px;
+height: 11.33px;
+left: 336.33px;
+top: 17.33px;
+
+
+
+/* Border */
+
+position: absolute;
+width: 22px;
+height: 11.33px;
+right: 16.67px;
+top: 17.33px;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+/* Darker Grey */
+border: 1px solid #1D1D1B;
+box-sizing: border-box;
+border-radius: 2.66667px;
+
+
+/* Cap */
+
+position: absolute;
+width: 1.33px;
+height: 4px;
+right: 14.34px;
+top: 21px;
+
+/* Darker Grey */
+background: #1D1D1B;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Capacity */
+
+position: absolute;
+width: 18px;
+height: 7.33px;
+right: 18.67px;
+top: 19.33px;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 1.33333px;
+
+
+/* Wifi */
+
+position: absolute;
+width: 15.33px;
+height: 11px;
+right: 43.67px;
+top: 17.33px;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.27%;
+right: 11.64%;
+top: 39.39%;
+bottom: 49.8%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.98%;
+right: 12.36%;
+top: 48.04%;
+bottom: 43.68%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 85.69%;
+right: 13.07%;
+top: 56.69%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular Connection */
+
+position: absolute;
+width: 17px;
+height: 10.67px;
+right: 64px;
+top: 17.67px;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 78.4%;
+right: 20.8%;
+top: 55.3%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 79.64%;
+right: 19.56%;
+top: 50.76%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 80.89%;
+right: 18.31%;
+top: 45.45%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 82.13%;
+right: 17.07%;
+top: 40.15%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Time Style */
+
+position: absolute;
+width: 54px;
+height: 21px;
+left: 21px;
+top: 7.33px;
+
+
+
+/* Time */
+
+position: absolute;
+width: 54px;
+height: 18px;
+left: 0px;
+top: calc(50% - 18px/2 + 5.5px);
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.3px;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 40 */
+
+position: absolute;
+width: 375px;
+height: 60px;
+left: 0px;
+top: 88px;
+
+/* Light Yellow */
+background: #FFCE25;
+
+
+/* eva:shopping-cart-outline */
+
+position: absolute;
+left: 86.13%;
+right: 5.33%;
+top: 12.56%;
+bottom: 83.5%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 33.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Group */
+
+position: absolute;
+width: 90px;
+height: 40px;
+left: 20px;
+top: 98px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 5.33%;
+right: 75.83%;
+top: 12.07%;
+bottom: 84.81%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Group */
+
+position: absolute;
+left: 5.7%;
+right: 76.2%;
+top: 12.23%;
+bottom: 85.01%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.36%;
+right: 76.2%;
+top: 12.23%;
+bottom: 85.01%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.7%;
+right: 90.24%;
+top: 12.42%;
+bottom: 85.42%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.96%;
+right: 87.08%;
+top: 12.47%;
+bottom: 85.31%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 11.5%;
+right: 70.67%;
+top: 15.34%;
+bottom: 83%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.5%;
+right: 84.69%;
+top: 15.39%;
+bottom: 83.41%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.16%;
+right: 82.88%;
+top: 15.71%;
+bottom: 83.39%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.41%;
+right: 81.38%;
+top: 15.72%;
+bottom: 83.41%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.91%;
+right: 79.11%;
+top: 15.34%;
+bottom: 83.41%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.93%;
+right: 77.37%;
+top: 15.71%;
+bottom: 83.39%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.96%;
+right: 75.2%;
+top: 15.34%;
+bottom: 83.41%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.1%;
+right: 72.95%;
+top: 15.71%;
+bottom: 83.39%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.37%;
+right: 70.67%;
+top: 15.72%;
+bottom: 83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* eva:arrow-back-fill */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 20px;
+top: 168px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 20.83%;
+bottom: 20.83%;
+
+background: #000000;
+
+
+/* Back */
+
+position: absolute;
+left: 15.2%;
+right: 76.27%;
+top: 21.55%;
+bottom: 76.35%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 5.33%;
+right: 5.33%;
+top: 27.09%;
+bottom: 42.12%;
+
+background: url(.jpg);
+border-radius: 8px;
+
+
+/* Rectangle 43 */
+
+position: absolute;
+left: 80.8%;
+right: 8.53%;
+top: 55.42%;
+bottom: 39.66%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 81.87%;
+right: 9.6%;
+top: 55.91%;
+bottom: 40.15%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 17.87%;
+right: 62.67%;
+top: 60.71%;
+bottom: 37.07%;
+
+/* p Bold Mobile */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 14.4px;
+line-height: 125%;
+/* identical to box height, or 18px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 47.2%;
+right: 40%;
+top: 60.71%;
+bottom: 37.07%;
+
+/* p Bold Mobile */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 14.4px;
+line-height: 125%;
+/* identical to box height, or 18px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 10.67%;
+right: 82.93%;
+top: 60.34%;
+bottom: 36.7%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 40%;
+right: 53.6%;
+top: 60.34%;
+bottom: 36.7%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has? */
+
+position: absolute;
+width: 294px;
+height: 140px;
+left: 40px;
+top: 663px;
+
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 14.4px;
+line-height: 141%;
+/* or 20px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has? */
+
+position: absolute;
+width: 294px;
+height: 140px;
+left: 40px;
+top: 823px;
+
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 14.4px;
+line-height: 141%;
+/* or 20px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Ineraction Design Workshop */
+
+position: absolute;
+left: 5.33%;
+right: 5.33%;
+top: 64.53%;
+bottom: 24.88%;
+
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 120%;
+/* or 43px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* Marko Maljković */
+
+position: absolute;
+left: 20%;
+right: 8%;
+top: 76.35%;
+bottom: 20.81%;
+
+/* h5 Mobile (h5-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* WITH */
+
+position: absolute;
+left: 8.27%;
+right: 81.33%;
+top: 76.85%;
+bottom: 20.94%;
+
+/* p Bold Mobile */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 14.4px;
+line-height: 125%;
+/* identical to box height, or 18px */
+
+/* Black */
+color: #0D0D0D;
+
+
+
+/* Rectangle 45 */
+
+position: absolute;
+width: 375px;
+height: 80px;
+left: 0px;
+top: 732px;
+
+/* White */
+background: #FFFFFF;
+box-shadow: -1px -2px 4px rgba(127, 127, 127, 0.25);
+
+
+/* 495,00 */
+
+position: absolute;
+left: 5.33%;
+right: 76.8%;
+top: 93.47%;
+bottom: 3.45%;
+
+/* h3 Mobile (h3-30%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 20.3px;
+line-height: 125%;
+/* or 25px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 46 */
+
+position: absolute;
+left: 36.27%;
+right: 45.33%;
+top: 92.49%;
+bottom: 1.97%;
+
+/* White */
+background: #FFFFFF;
+/* Blue */
+border: 1px solid #0097CC;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* 1 */
+
+position: absolute;
+left: 41.33%;
+right: 55.47%;
+top: 93.72%;
+bottom: 3.45%;
+
+/* h5 Mobile (h5-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+text-align: right;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eva:chevron-down-fill */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 167px;
+top: 757px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.15%;
+right: 28.99%;
+top: 39.57%;
+bottom: 35.42%;
+
+background: #000000;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+left: 57.33%;
+right: 5.33%;
+top: 92.36%;
+bottom: 2.09%;
+
+/* Yellow */
+background: #FFC80C;
+box-shadow: 2px 4px 8px rgba(13, 13, 13, 0.15);
+border-radius: 8px;
+
+
+/* eva:shopping-cart-outline */
+
+position: absolute;
+left: 79.47%;
+right: 12%;
+top: 93.23%;
+bottom: 2.83%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 33.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Dodaj u */
+
+position: absolute;
+left: 64.27%;
+right: 21.33%;
+top: 94.09%;
+bottom: 3.69%;
+
+/* p Bold Mobile */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 14.4px;
+line-height: 125%;
+/* identical to box height, or 18px */
+text-align: right;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* EUR */
+
+position: absolute;
+left: 24%;
+right: 68.8%;
+top: 94.21%;
+bottom: 3.69%;
+
+/* h6 Mobile (h6-10%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 13.5px;
+line-height: 125%;
+/* identical to box height, or 17px */
+
+/* Darker Grey */
+color: #1D1D1B;
+

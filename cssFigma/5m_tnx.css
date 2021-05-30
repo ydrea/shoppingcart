@@ -1,0 +1,351 @@
+/* Thank you Mobile */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+
+
+/* Navigation Bar */
+
+position: absolute;
+height: 88px;
+left: 0%;
+right: 0%;
+top: calc(50% - 88px/2 - 362px);
+
+
+
+/* Navigation Bar Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Yellow */
+background: #FFC80C;
+box-shadow: 0px 0.3333px 0px rgba(0, 0, 0, 0.3);
+backdrop-filter: blur(54.3656px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Rectangle 48 */
+
+position: absolute;
+width: 375px;
+height: 768px;
+left: 0px;
+top: 44px;
+
+/* White */
+background: #FFFFFF;
+/* Drop Shadow Cart */
+box-shadow: -1px -2px 16px rgba(127, 127, 127, 0.25);
+
+
+/* eva:close-fill */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 560px;
+top: 88px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 24.98%;
+right: 24.98%;
+top: 24.98%;
+bottom: 24.98%;
+
+background: #000000;
+
+
+/* Thank you! */
+
+position: absolute;
+width: 172px;
+height: 40px;
+left: 40px;
+top: 378px;
+
+/* h2 Mobile (h2-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 125%;
+/* identical to box height, or 40px */
+
+color: #000000;
+
+
+
+/* What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing. */
+
+position: absolute;
+width: 225px;
+height: 51px;
+left: 40px;
+top: 428px;
+
+/* h6 SemiBold Mobile */
+font-family: Livvic;
+font-style: normal;
+font-weight: 600;
+font-size: 13.5px;
+line-height: 125%;
+/* or 17px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 295px;
+height: 60px;
+left: 41px;
+top: 672px;
+
+/* Light Yellow */
+background: #FFCE25;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 6px;
+
+
+/* Back to Shop */
+
+position: absolute;
+left: 34.93%;
+right: 34.13%;
+top: 85.1%;
+bottom: 12.07%;
+
+/* h5 Mobile (h5-20%) */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18.4px;
+line-height: 125%;
+/* identical to box height, or 23px */
+text-align: center;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Status Bar */
+
+position: absolute;
+height: 44px;
+left: 0%;
+right: 0%;
+top: calc(50% - 44px/2 - 384px);
+
+
+
+/* Battery */
+
+position: absolute;
+width: 24.33px;
+height: 11.33px;
+left: 336.33px;
+top: 17.33px;
+
+
+
+/* Border */
+
+position: absolute;
+width: 22px;
+height: 11.33px;
+right: 16.67px;
+top: 17.33px;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+/* Darker Grey */
+border: 1px solid #1D1D1B;
+box-sizing: border-box;
+border-radius: 2.66667px;
+
+
+/* Cap */
+
+position: absolute;
+width: 1.33px;
+height: 4px;
+right: 14.34px;
+top: 21px;
+
+/* Darker Grey */
+background: #1D1D1B;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Capacity */
+
+position: absolute;
+width: 18px;
+height: 7.33px;
+right: 18.67px;
+top: 19.33px;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 1.33333px;
+
+
+/* Wifi */
+
+position: absolute;
+width: 15.33px;
+height: 11px;
+right: 43.67px;
+top: 17.33px;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.27%;
+right: 11.64%;
+top: 39.39%;
+bottom: 49.8%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 84.98%;
+right: 12.36%;
+top: 48.04%;
+bottom: 43.68%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 85.69%;
+right: 13.07%;
+top: 56.69%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular Connection */
+
+position: absolute;
+width: 17px;
+height: 10.67px;
+right: 64px;
+top: 17.67px;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 78.4%;
+right: 20.8%;
+top: 55.3%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 79.64%;
+right: 19.56%;
+top: 50.76%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 80.89%;
+right: 18.31%;
+top: 45.45%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 82.13%;
+right: 17.07%;
+top: 40.15%;
+bottom: 35.61%;
+
+background: #000000;
+
+
+/* Time Style */
+
+position: absolute;
+width: 54px;
+height: 21px;
+left: 21px;
+top: 7.33px;
+
+
+
+/* Time */
+
+position: absolute;
+width: 54px;
+height: 18px;
+left: 0px;
+top: calc(50% - 18px/2 + 5.5px);
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.3px;
+
+/* Darker Grey */
+color: #1D1D1B;
+

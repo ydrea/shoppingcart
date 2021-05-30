@@ -1,0 +1,4397 @@
+/* Checkout form */
+
+position: relative;
+width: 1440px;
+height: 1829px;
+
+/* Lighter Grey */
+background: #F2F2F2;
+
+
+/* Broj radionica: 13 */
+
+position: absolute;
+width: 127px;
+height: 19px;
+left: 380px;
+top: 200px;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Filter */
+
+position: absolute;
+width: 154px;
+height: 294px;
+left: 20px;
+top: 200px;
+
+
+
+/* Filter by category: */
+
+position: absolute;
+left: 24.68%;
+right: -11.04%;
+top: 0%;
+bottom: 93.54%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* All */
+
+position: absolute;
+left: 24.03%;
+right: 55.84%;
+top: 16.67%;
+bottom: 73.47%;
+
+/* h5 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 23px;
+line-height: 125%;
+/* identical to box height, or 29px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Design */
+
+position: absolute;
+left: 24.03%;
+right: 26.62%;
+top: 34.35%;
+bottom: 55.78%;
+
+/* h5 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 23px;
+line-height: 125%;
+/* identical to box height, or 29px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* Frontend */
+
+position: absolute;
+left: 24.03%;
+right: 10.39%;
+top: 52.72%;
+bottom: 37.41%;
+
+/* h5 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 23px;
+line-height: 125%;
+/* identical to box height, or 29px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Backend */
+
+position: absolute;
+left: 24.03%;
+right: 14.29%;
+top: 71.09%;
+bottom: 19.05%;
+
+/* h5 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 23px;
+line-height: 125%;
+/* identical to box height, or 29px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Marketing */
+
+position: absolute;
+left: 24.03%;
+right: 0.65%;
+top: 89.46%;
+bottom: 0.68%;
+
+/* h5 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 23px;
+line-height: 125%;
+/* identical to box height, or 29px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 0%;
+right: 79.22%;
+top: 34.01%;
+bottom: 55.1%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* Blue */
+background: #0097CC;
+
+
+/* eva:code-fill */
+
+position: absolute;
+left: 0%;
+right: 79.22%;
+top: 70.75%;
+bottom: 18.37%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.34%;
+right: 8.32%;
+top: 20.82%;
+bottom: 20.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* eva:layout-outline */
+
+position: absolute;
+left: 0%;
+right: 79.22%;
+top: 52.38%;
+bottom: 36.73%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* eva:flash-outline */
+
+position: absolute;
+left: 0%;
+right: 79.22%;
+top: 89.12%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.66%;
+right: 16.66%;
+top: 4.17%;
+bottom: 4.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Line 2 */
+
+position: absolute;
+left: 24.03%;
+right: 26.62%;
+top: 45.24%;
+bottom: 54.76%;
+
+/* Blue */
+border: 2px solid #0097CC;
+
+
+/* Main Nav */
+
+position: absolute;
+width: 1440px;
+height: 90px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Light Yellow */
+background: #FFCE25;
+
+
+/* Cart is Empty */
+
+position: absolute;
+left: 79.31%;
+right: 13.75%;
+top: 37.78%;
+bottom: 41.11%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Black */
+color: #0D0D0D;
+
+
+
+/* eva:shopping-cart-outline */
+
+position: absolute;
+left: 76.39%;
+right: 21.39%;
+top: 32.22%;
+bottom: 32.22%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 10.98%;
+top: 12.5%;
+bottom: 33.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 62.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.67%;
+right: 20.83%;
+top: 75%;
+bottom: 12.5%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Group */
+
+position: absolute;
+left: 1.39%;
+right: 91.32%;
+top: 26.69%;
+bottom: 21.1%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.39%;
+right: 92.89%;
+top: 26.69%;
+bottom: 40.26%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Group */
+
+position: absolute;
+left: 1.5%;
+right: 93%;
+top: 28.35%;
+bottom: 42.39%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.52%;
+right: 93%;
+top: 28.35%;
+bottom: 42.39%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.5%;
+right: 97.27%;
+top: 30.36%;
+bottom: 46.65%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.8%;
+right: 96.31%;
+top: 30.9%;
+bottom: 45.49%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 3.26%;
+right: 91.32%;
+top: 61.35%;
+bottom: 21.1%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.26%;
+right: 95.58%;
+top: 61.91%;
+bottom: 25.34%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.38%;
+right: 95.03%;
+top: 65.3%;
+bottom: 25.19%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.06%;
+right: 94.58%;
+top: 65.4%;
+bottom: 25.42%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.51%;
+right: 93.89%;
+top: 61.35%;
+bottom: 25.42%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.13%;
+right: 93.35%;
+top: 65.3%;
+bottom: 25.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.74%;
+right: 92.7%;
+top: 61.35%;
+bottom: 25.42%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.39%;
+right: 92.01%;
+top: 65.3%;
+bottom: 25.19%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.08%;
+right: 91.32%;
+top: 65.34%;
+bottom: 21.1%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Sve radionice */
+
+position: absolute;
+width: 254px;
+height: 50px;
+left: 380px;
+top: 150px;
+
+/* h2 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 125%;
+/* identical to box height, or 50px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Sve radionice */
+
+position: absolute;
+width: 254px;
+height: 50px;
+left: 380px;
+top: 150px;
+
+/* h2 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 125%;
+/* identical to box height, or 50px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Workshop Card_v2 */
+
+position: absolute;
+width: 320px;
+height: 450px;
+left: 380px;
+top: 259px;
+
+
+
+/* Rectangle 39 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 12.5%;
+right: 0%;
+top: 50.89%;
+bottom: 34%;
+
+/* h4 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 27px;
+line-height: 125%;
+/* or 34px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 495,00 */
+
+position: absolute;
+left: 12.5%;
+right: 57.81%;
+top: 68.22%;
+bottom: 23.78%;
+
+/* h3 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 125%;
+/* or 36px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 19.06%;
+right: 57.19%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 52.5%;
+right: 31.88%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Black */
+color: #0D0D0D;
+
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 45.94%;
+right: 48.44%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* EUR */
+
+position: absolute;
+left: 43.75%;
+right: 46.88%;
+top: 71.33%;
+bottom: 24.44%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 60%;
+
+background: url(.jpg);
+border-radius: 8px 8px 0px 0px;
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 12.5%;
+right: 81.88%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Btn Primary */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 13.5px 70.5px;
+
+position: absolute;
+left: 12.03%;
+right: 12.03%;
+top: 80.67%;
+bottom: 8.22%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 6px;
+
+
+/* Add to Cart */
+
+position: static;
+left: 29.01%;
+right: 29.01%;
+top: 27%;
+bottom: 27%;
+
+/* p Bold */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+text-align: center;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 81.25%;
+right: 6.25%;
+top: 35.56%;
+bottom: 55.56%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 82.5%;
+right: 7.5%;
+top: 36.44%;
+bottom: 56.44%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Workshop Card_v2:hover */
+
+position: absolute;
+width: 320px;
+height: 450px;
+left: 740px;
+top: 259px;
+
+
+
+/* Rectangle 39 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Drop Shadow:hover */
+box-shadow: 1px 2px 16px rgba(127, 127, 127, 0.35);
+border-radius: 8px;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 12.5%;
+right: 0%;
+top: 50.89%;
+bottom: 34%;
+
+/* h4 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 27px;
+line-height: 125%;
+/* or 34px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 495,00 */
+
+position: absolute;
+left: 12.5%;
+right: 57.81%;
+top: 68.22%;
+bottom: 23.78%;
+
+/* h3 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 125%;
+/* or 36px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 19.06%;
+right: 57.19%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 52.5%;
+right: 31.88%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Black */
+color: #0D0D0D;
+
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 45.94%;
+right: 48.44%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* EUR */
+
+position: absolute;
+left: 43.75%;
+right: 46.88%;
+top: 71.33%;
+bottom: 24.44%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 60%;
+
+background: url(.jpg);
+border-radius: 8px 8px 0px 0px;
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 12.5%;
+right: 81.88%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Btn Primary */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 13.5px 70.5px;
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 80.67%;
+bottom: 8.22%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 6px;
+
+
+/* Add to cart */
+
+position: static;
+left: 29.38%;
+right: 29.38%;
+top: 27%;
+bottom: 27%;
+
+/* p Bold */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+text-align: center;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 81.25%;
+right: 6.25%;
+top: 35.56%;
+bottom: 55.56%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 82.5%;
+right: 7.5%;
+top: 36.44%;
+bottom: 56.44%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Workshop Card_v2 */
+
+position: absolute;
+width: 320px;
+height: 450px;
+left: 1100px;
+top: 259px;
+
+
+
+/* Rectangle 39 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 12.5%;
+right: 0%;
+top: 50.89%;
+bottom: 34%;
+
+/* h4 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 27px;
+line-height: 125%;
+/* or 34px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 495,00 */
+
+position: absolute;
+left: 12.5%;
+right: 57.81%;
+top: 68.22%;
+bottom: 23.78%;
+
+/* h3 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 125%;
+/* or 36px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 19.06%;
+right: 57.19%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 52.5%;
+right: 31.88%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Black */
+color: #0D0D0D;
+
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 45.94%;
+right: 48.44%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* EUR */
+
+position: absolute;
+left: 43.75%;
+right: 46.88%;
+top: 71.33%;
+bottom: 24.44%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 60%;
+
+background: url(.jpg);
+border-radius: 8px 8px 0px 0px;
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 12.5%;
+right: 81.88%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Btn Primary */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 13.5px 70.5px;
+
+position: absolute;
+left: 12.03%;
+right: 12.03%;
+top: 80.67%;
+bottom: 8.22%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 6px;
+
+
+/* Add to Cart */
+
+position: static;
+left: 29.01%;
+right: 29.01%;
+top: 27%;
+bottom: 27%;
+
+/* p Bold */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+text-align: center;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 81.25%;
+right: 6.25%;
+top: 35.56%;
+bottom: 55.56%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 82.5%;
+right: 7.5%;
+top: 36.44%;
+bottom: 56.44%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Workshop Card_v2 */
+
+position: absolute;
+width: 320px;
+height: 450px;
+left: 380px;
+top: 749px;
+
+
+
+/* Rectangle 39 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 12.5%;
+right: 0%;
+top: 50.89%;
+bottom: 34%;
+
+/* h4 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 27px;
+line-height: 125%;
+/* or 34px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 495,00 */
+
+position: absolute;
+left: 12.5%;
+right: 57.81%;
+top: 68.22%;
+bottom: 23.78%;
+
+/* h3 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 125%;
+/* or 36px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 19.06%;
+right: 57.19%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 52.5%;
+right: 31.88%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Black */
+color: #0D0D0D;
+
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 45.94%;
+right: 48.44%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* EUR */
+
+position: absolute;
+left: 43.75%;
+right: 46.88%;
+top: 71.33%;
+bottom: 24.44%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 60%;
+
+background: url(.jpg);
+border-radius: 8px 8px 0px 0px;
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 12.5%;
+right: 81.88%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Btn Primary */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 13.5px 70.5px;
+
+position: absolute;
+left: 12.03%;
+right: 12.03%;
+top: 80.67%;
+bottom: 8.22%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 6px;
+
+
+/* Add to Cart */
+
+position: static;
+left: 29.01%;
+right: 29.01%;
+top: 27%;
+bottom: 27%;
+
+/* p Bold */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+text-align: center;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 81.25%;
+right: 6.25%;
+top: 35.56%;
+bottom: 55.56%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 82.5%;
+right: 7.5%;
+top: 36.44%;
+bottom: 56.44%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Workshop Card_v2 */
+
+position: absolute;
+width: 320px;
+height: 450px;
+left: 740px;
+top: 749px;
+
+
+
+/* Rectangle 39 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 12.5%;
+right: 0%;
+top: 50.89%;
+bottom: 34%;
+
+/* h4 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 27px;
+line-height: 125%;
+/* or 34px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 495,00 */
+
+position: absolute;
+left: 12.5%;
+right: 57.81%;
+top: 68.22%;
+bottom: 23.78%;
+
+/* h3 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 125%;
+/* or 36px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 19.06%;
+right: 57.19%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 52.5%;
+right: 31.88%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Black */
+color: #0D0D0D;
+
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 45.94%;
+right: 48.44%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* EUR */
+
+position: absolute;
+left: 43.75%;
+right: 46.88%;
+top: 71.33%;
+bottom: 24.44%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 60%;
+
+background: url(.jpg);
+border-radius: 8px 8px 0px 0px;
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 12.5%;
+right: 81.88%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Btn Primary */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 13.5px 70.5px;
+
+position: absolute;
+left: 12.03%;
+right: 12.03%;
+top: 80.67%;
+bottom: 8.22%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 6px;
+
+
+/* Add to Cart */
+
+position: static;
+left: 29.01%;
+right: 29.01%;
+top: 27%;
+bottom: 27%;
+
+/* p Bold */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+text-align: center;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 81.25%;
+right: 6.25%;
+top: 35.56%;
+bottom: 55.56%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 82.5%;
+right: 7.5%;
+top: 36.44%;
+bottom: 56.44%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Workshop Card_v2 */
+
+position: absolute;
+width: 320px;
+height: 450px;
+left: 1100px;
+top: 749px;
+
+
+
+/* Rectangle 39 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 12.5%;
+right: 0%;
+top: 50.89%;
+bottom: 34%;
+
+/* h4 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 27px;
+line-height: 125%;
+/* or 34px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 495,00 */
+
+position: absolute;
+left: 12.5%;
+right: 57.81%;
+top: 68.22%;
+bottom: 23.78%;
+
+/* h3 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 125%;
+/* or 36px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 19.06%;
+right: 57.19%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 52.5%;
+right: 31.88%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Black */
+color: #0D0D0D;
+
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 45.94%;
+right: 48.44%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* EUR */
+
+position: absolute;
+left: 43.75%;
+right: 46.88%;
+top: 71.33%;
+bottom: 24.44%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 60%;
+
+background: url(.jpg);
+border-radius: 8px 8px 0px 0px;
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 12.5%;
+right: 81.88%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Btn Primary */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 13.5px 70.5px;
+
+position: absolute;
+left: 12.03%;
+right: 12.03%;
+top: 80.67%;
+bottom: 8.22%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 6px;
+
+
+/* Add to Cart */
+
+position: static;
+left: 29.01%;
+right: 29.01%;
+top: 27%;
+bottom: 27%;
+
+/* p Bold */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+text-align: center;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 81.25%;
+right: 6.25%;
+top: 35.56%;
+bottom: 55.56%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 82.5%;
+right: 7.5%;
+top: 36.44%;
+bottom: 56.44%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Workshop Card_v2 */
+
+position: absolute;
+width: 320px;
+height: 450px;
+left: 380px;
+top: 1239px;
+
+
+
+/* Rectangle 39 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 12.5%;
+right: 0%;
+top: 50.89%;
+bottom: 34%;
+
+/* h4 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 27px;
+line-height: 125%;
+/* or 34px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 495,00 */
+
+position: absolute;
+left: 12.5%;
+right: 57.81%;
+top: 68.22%;
+bottom: 23.78%;
+
+/* h3 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 125%;
+/* or 36px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 19.06%;
+right: 57.19%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 52.5%;
+right: 31.88%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Black */
+color: #0D0D0D;
+
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 45.94%;
+right: 48.44%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* EUR */
+
+position: absolute;
+left: 43.75%;
+right: 46.88%;
+top: 71.33%;
+bottom: 24.44%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 60%;
+
+background: url(.jpg);
+border-radius: 8px 8px 0px 0px;
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 12.5%;
+right: 81.88%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Btn Primary */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 13.5px 70.5px;
+
+position: absolute;
+left: 12.03%;
+right: 12.03%;
+top: 80.67%;
+bottom: 8.22%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 6px;
+
+
+/* Add to Cart */
+
+position: static;
+left: 29.01%;
+right: 29.01%;
+top: 27%;
+bottom: 27%;
+
+/* p Bold */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+text-align: center;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 81.25%;
+right: 6.25%;
+top: 35.56%;
+bottom: 55.56%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 82.5%;
+right: 7.5%;
+top: 36.44%;
+bottom: 56.44%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Workshop Card_v2 */
+
+position: absolute;
+width: 320px;
+height: 450px;
+left: 740px;
+top: 1239px;
+
+
+
+/* Rectangle 39 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 12.5%;
+right: 0%;
+top: 50.89%;
+bottom: 34%;
+
+/* h4 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 27px;
+line-height: 125%;
+/* or 34px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 495,00 */
+
+position: absolute;
+left: 12.5%;
+right: 57.81%;
+top: 68.22%;
+bottom: 23.78%;
+
+/* h3 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 125%;
+/* or 36px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 19.06%;
+right: 57.19%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 52.5%;
+right: 31.88%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Black */
+color: #0D0D0D;
+
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 45.94%;
+right: 48.44%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* EUR */
+
+position: absolute;
+left: 43.75%;
+right: 46.88%;
+top: 71.33%;
+bottom: 24.44%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 60%;
+
+background: url(.jpg);
+border-radius: 8px 8px 0px 0px;
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 12.5%;
+right: 81.88%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Btn Primary */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 13.5px 70.5px;
+
+position: absolute;
+left: 12.03%;
+right: 12.03%;
+top: 80.67%;
+bottom: 8.22%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 6px;
+
+
+/* Add to Cart */
+
+position: static;
+left: 29.01%;
+right: 29.01%;
+top: 27%;
+bottom: 27%;
+
+/* p Bold */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+text-align: center;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 81.25%;
+right: 6.25%;
+top: 35.56%;
+bottom: 55.56%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 82.5%;
+right: 7.5%;
+top: 36.44%;
+bottom: 56.44%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Workshop Card_v2 */
+
+position: absolute;
+width: 320px;
+height: 450px;
+left: 1100px;
+top: 1239px;
+
+
+
+/* Rectangle 39 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+/* Lighter Grey */
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Interaction Design Workshop */
+
+position: absolute;
+left: 12.5%;
+right: 0%;
+top: 50.89%;
+bottom: 34%;
+
+/* h4 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 27px;
+line-height: 125%;
+/* or 34px */
+
+/* Blue */
+color: #0097CC;
+
+
+
+/* 495,00 */
+
+position: absolute;
+left: 12.5%;
+right: 57.81%;
+top: 68.22%;
+bottom: 23.78%;
+
+/* h3 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 125%;
+/* or 36px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 27.6.2020. */
+
+position: absolute;
+left: 19.06%;
+right: 57.19%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* 09:00h */
+
+position: absolute;
+left: 52.5%;
+right: 31.88%;
+top: 44.44%;
+bottom: 51.33%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Black */
+color: #0D0D0D;
+
+
+
+/* eva:clock-outline */
+
+position: absolute;
+left: 45.94%;
+right: 48.44%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* EUR */
+
+position: absolute;
+left: 43.75%;
+right: 46.88%;
+top: 71.33%;
+bottom: 24.44%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 60%;
+
+background: url(.jpg);
+border-radius: 8px 8px 0px 0px;
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+left: 12.5%;
+right: 81.88%;
+top: 44.44%;
+bottom: 51.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+/* Darker Grey */
+background: #1D1D1B;
+
+
+/* Btn Primary */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 13.5px 70.5px;
+
+position: absolute;
+left: 12.03%;
+right: 12.03%;
+top: 80.67%;
+bottom: 8.22%;
+
+/* Yellow */
+background: #FFC80C;
+/* Drop Shadow 8px */
+box-shadow: 1px 2px 8px rgba(127, 127, 127, 0.25);
+border-radius: 6px;
+
+
+/* Add to Cart */
+
+position: static;
+left: 29.01%;
+right: 29.01%;
+top: 27%;
+bottom: 27%;
+
+/* p Bold */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+text-align: center;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 81.25%;
+right: 6.25%;
+top: 35.56%;
+bottom: 55.56%;
+
+/* Darker Grey */
+background: #1D1D1B;
+border-radius: 6px;
+
+
+/* eva:brush-outline */
+
+position: absolute;
+left: 82.5%;
+right: 7.5%;
+top: 36.44%;
+bottom: 56.44%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.78%;
+bottom: 16.67%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Footer */
+
+position: absolute;
+width: 1440px;
+height: 80px;
+left: 0px;
+top: 1749px;
+
+
+
+/* Rectangle 38 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Light Grey */
+background: #7F7F7F;
+opacity: 0.1;
+
+
+/* © TINEL Meetup 2020. */
+
+position: absolute;
+left: 5.56%;
+right: 83.54%;
+top: 37.5%;
+bottom: 38.75%;
+
+/* h6 SemiBold */
+font-family: Livvic;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Rectangle 42 */
+
+position: absolute;
+width: 1440px;
+height: 1829px;
+left: 0px;
+top: 0px;
+
+/* Darker Grey */
+background: #1D1D1B;
+opacity: 0.75;
+
+
+/* Form */
+
+position: absolute;
+width: 792px;
+height: 1142px;
+left: 325px;
+top: 46px;
+
+
+
+/* Rectangle 43 */
+
+position: absolute;
+width: 760px;
+height: 1110px;
+left: 15px;
+top: 14px;
+
+/* White */
+background: #FFFFFF;
+/* Drop Shadow 16px */
+box-shadow: 1px 2px 16px rgba(127, 127, 127, 0.25);
+border-radius: 16px;
+
+
+/* eva:close-fill */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 637px;
+top: 96px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 24.98%;
+right: 24.98%;
+top: 24.98%;
+bottom: 24.98%;
+
+background: #000000;
+
+
+/* Checkout */
+
+position: absolute;
+width: 182px;
+height: 50px;
+left: 109px;
+top: 96px;
+
+/* h2 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 125%;
+/* identical to box height, or 50px */
+
+color: #000000;
+
+
+
+/* Input Field:active */
+
+position: absolute;
+width: 560px;
+height: 78px;
+left: 109px;
+top: 234px;
+
+
+
+/* First Name */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 75.64%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Rectangle 44 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 30.77%;
+bottom: 0%;
+
+/* Lighter Grey */
+background: #F2F2F2;
+
+
+/* Marko */
+
+position: absolute;
+left: 3.57%;
+right: 86.79%;
+top: 48.72%;
+bottom: 16.67%;
+
+/* p */
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* Black */
+color: #0D0D0D;
+
+
+
+/* Line 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+
+/* Blue */
+border: 2px solid #0097CC;
+
+
+/* Rectangle 44 */
+
+position: absolute;
+left: 13.76%;
+right: 15.53%;
+top: 32.49%;
+bottom: 62.78%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Last Name */
+
+position: absolute;
+left: 13.76%;
+right: 15.53%;
+top: 30.39%;
+bottom: 67.95%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Your last name contains invalid symbol! */
+
+position: absolute;
+left: 13.76%;
+right: 15.53%;
+top: 30.39%;
+bottom: 67.95%;
+
+/* h6 SemiBold */
+font-family: Livvic;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+text-align: right;
+
+/* Red */
+color: #FF392E;
+
+
+
+/* Type your last name here */
+
+position: absolute;
+left: 13.76%;
+right: 59.72%;
+top: 33.71%;
+bottom: 63.92%;
+
+/* p */
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Line 3 */
+
+position: absolute;
+left: 13.76%;
+right: 15.53%;
+top: 37.22%;
+bottom: 62.78%;
+
+/* Red */
+border: 2px solid #FF392E;
+
+
+/* Input Field:inactive */
+
+position: absolute;
+width: 560px;
+height: 78px;
+left: 109px;
+top: 460px;
+
+
+
+/* Rectangle 44 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 30.77%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Email Address */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 75.64%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Type your email address here */
+
+position: absolute;
+left: 0%;
+right: 56.61%;
+top: 48.72%;
+bottom: 16.67%;
+
+/* p */
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Line 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+
+/* Light Grey */
+border: 2px solid #7F7F7F;
+
+
+/* Input Field:inactive */
+
+position: absolute;
+width: 560px;
+height: 78px;
+left: 109px;
+top: 686px;
+
+
+
+/* Rectangle 44 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 30.77%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Address */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 75.64%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Type your address address here */
+
+position: absolute;
+left: 0%;
+right: 53.39%;
+top: 48.72%;
+bottom: 16.67%;
+
+/* p */
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Line 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+
+/* Light Grey */
+border: 2px solid #7F7F7F;
+
+
+/* Input Field:inactive */
+
+position: absolute;
+width: 560px;
+height: 78px;
+left: 109px;
+top: 799px;
+
+
+
+/* Rectangle 44 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 30.77%;
+bottom: 0%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Zip Code */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 75.64%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* eg. 21310 */
+
+position: absolute;
+left: 0%;
+right: 85.18%;
+top: 48.72%;
+bottom: 16.67%;
+
+/* p */
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Line 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+
+/* Light Grey */
+border: 2px solid #7F7F7F;
+
+
+/* Dropdown:inactive */
+
+position: absolute;
+width: 260px;
+height: 78px;
+left: 109px;
+top: 573px;
+
+
+
+/* Rectangle 44 */
+
+position: absolute;
+height: 54px;
+left: 0px;
+right: 0px;
+top: calc(50% - 54px/2 + 12px);
+
+/* White */
+background: #FFFFFF;
+
+
+/* Date of Birth */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 75.64%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* DD.MM.YYYY */
+
+position: absolute;
+width: 110px;
+height: 27px;
+left: 30px;
+top: calc(50% - 27px/2 + 12.5px);
+
+/* p */
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* eva:calendar-outline */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: calc(50% - 24px/2 + 12px);
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 62.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 29.17%;
+top: 62.5%;
+bottom: 29.17%;
+
+background: #000000;
+
+
+/* Line 3 */
+
+position: absolute;
+height: 0px;
+left: 0px;
+right: 0px;
+top: calc(50% - 0px/2 + 39px);
+
+/* Light Grey */
+border: 2px solid #7F7F7F;
+
+
+/* Dropdown_2:inactive */
+
+position: absolute;
+width: 260px;
+height: 78px;
+left: 409px;
+top: 573px;
+
+
+
+/* Rectangle 44 */
+
+position: absolute;
+height: 54px;
+left: 0px;
+right: 0px;
+top: calc(50% - 54px/2 + 12px);
+
+/* White */
+background: #FFFFFF;
+
+
+/* Gender */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 75.64%;
+
+/* h6 */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Other */
+
+position: absolute;
+width: 49px;
+height: 27px;
+left: 0px;
+top: calc(50% - 27px/2 + 12.5px);
+
+/* p */
+font-family: Livvic;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Line 3 */
+
+position: absolute;
+height: 0px;
+left: 0px;
+right: 0px;
+top: calc(50% - 0px/2 + 39px);
+
+/* Light Grey */
+border: 2px solid #7F7F7F;
+
+
+/* eva:chevron-down-fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 236px;
+top: 39px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.15%;
+right: 28.98%;
+top: 39.57%;
+bottom: 35.42%;
+
+background: #000000;
+
+
+/* What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing. */
+
+position: absolute;
+width: 300px;
+height: 38px;
+left: 109px;
+top: 156px;
+
+/* h6 SemiBold */
+font-family: Livvic;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 125%;
+/* or 19px */
+
+/* Light Grey */
+color: #7F7F7F;
+
+
+
+/* Check:active */
+
+position: absolute;
+width: 90px;
+height: 32px;
+left: 109px;
+top: 912px;
+
+
+
+/* Rectangle 45 */
+
+position: absolute;
+left: 0%;
+right: 64.44%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0097CC;
+border-radius: 4px;
+
+
+/* eva:checkmark-fill */
+
+position: absolute;
+left: 4.44%;
+right: 68.89%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.66%;
+right: 16.5%;
+top: 24.82%;
+bottom: 25%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* I agree */
+
+position: absolute;
+left: 46.67%;
+right: 0%;
+top: 21.88%;
+bottom: 18.75%;
+
+/* h6 SemiBold */
+font-family: Livvic;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 125%;
+/* identical to box height, or 19px */
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+
+/* Btn Primary */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 18.5px 42.5px;
+
+position: absolute;
+left: 13.38%;
+right: 65.53%;
+top: 84.41%;
+bottom: 10.33%;
+
+/* Yellow */
+background: #FFC80C;
+border-radius: 8px;
+
+
+/* Checkout */
+
+position: static;
+left: 25.45%;
+right: 25.45%;
+top: 30.83%;
+bottom: 30.83%;
+
+/* p Bold */
+font-family: Livvic;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 125%;
+/* identical to box height, or 22px */
+text-align: center;
+
+/* Darker Grey */
+color: #1D1D1B;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
