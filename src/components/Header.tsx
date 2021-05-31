@@ -1,4 +1,4 @@
-import {useState, Dispatch} from 'react';
+import {useState} from 'react';
 
 import Drawer from '@material-ui/core/Drawer';
 import Badge from '@material-ui/core/Badge';
@@ -7,6 +7,9 @@ import { Button } from '@material-ui/core';
 import Cart from './Cart'
 
 import {CartItemType} from '../App'
+
+import Logic from './Logo'
+import { Wrapper } from './Header.style';
 
 type Props = {
     cartItems: CartItemType[];
@@ -37,19 +40,22 @@ const Header: React.FC<Props> = ({addToCart, setCartItems, cartItems}) => {
   
 
     return (
-        <div
-        style={{position: 'fixed', backgroundColor: '#FFCE25' }}>
-            <Drawer anchor='left' open={cartOpen} onClose={()=> setCartOpen(false)}>
+      <Wrapper>
+        <header className='header'>
+        <Logic />
+      <Drawer anchor='left' open={cartOpen} onClose={()=> setCartOpen(false)}>
         <Cart cartItems={cartItems} addToCart={addToCart} 
         removeFromCart={handleRemoveFromCart}
         />
       </Drawer>
-      <Button onClick={()=>setCartOpen(true)}>
+      <Button className='cart-button' onClick={()=>setCartOpen(true)}>
         <Badge badgeContent={getTotalItems(cartItems)} color='error'>
           <AddShoppingCartIcon/>
         </Badge>
       </Button>
-        </div>
+      </header>
+      </Wrapper>
+
     )
 }
 
