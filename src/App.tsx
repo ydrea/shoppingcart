@@ -7,6 +7,7 @@ import Grid from '@material-ui/core/Grid';
 
 import { Paper, Table, TableBody, TableCell, TableContainer, TableHead, TablePagination, TableRow } from '@material-ui/core';
 import Item from './components/Item'
+import Image from './components/Image'
 // styles
 import {Wrapper} from './App.styles'
 
@@ -65,6 +66,7 @@ if (error) return <div> Greška </div>
      `     <Grid container spacing = {3}>
         {data?.map(item => ( 
           <Grid item key={item.id} xs={12} sm={4}> 
+          <Image />
             <Item item={item} handleAddToCart={handleAddToCart} />
           </Grid>
         ) ) }

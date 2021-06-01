@@ -20,11 +20,6 @@ display: flex;
     padding: 20px;
 }
 .vector {
-    position: sticky
-    // size: 30%;
-    // left: 12.5%;
-    // right: 12.5%;
-    // top: 8.33%;
-    // bottom: 8.33%;
+    size: 30%;
 }
 `;
