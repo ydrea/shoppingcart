@@ -1,13 +1,14 @@
 import {useState} from 'react';
 import {useQuery} from 'react-query';
 
+import Header from './components/Header';
 import LinearProgress from '@material-ui/core/LinearProgress';
 import Grid from '@material-ui/core/Grid';
 
+import { Paper, Table, TableBody, TableCell, TableContainer, TableHead, TablePagination, TableRow } from '@material-ui/core';
 import Item from './components/Item'
 // styles
 import {Wrapper} from './App.styles'
-import Header from './components/Header';
 
 export type CartItemType = {
   id: number;
@@ -50,23 +51,28 @@ if (isLoading) return <LinearProgress/>
 if (error) return <div> Greška </div>
 
   return (
-    <Wrapper> 
+    <Wrapper>
+      <Paper >
+        <TableHead className='head'> 
+         <TableRow> 
+          <TableCell>
       <Header addToCart={handleAddToCart} cartItems={cartItems} setCartItems={setCartItems} />
-    
-      <Grid container spacing = {3}>
+          </TableCell>
+         </TableRow>
+      </TableHead> 
+        <TableBody>
+         <TableRow> 
+     `     <Grid container spacing = {3}>
         {data?.map(item => ( 
           <Grid item key={item.id} xs={12} sm={4}> 
             <Item item={item} handleAddToCart={handleAddToCart} />
           </Grid>
         ) ) }
-      <div>
-      <div>
-        alo
-      </div>
-    </div>
-    </Grid>
+             </Grid>
+          </TableRow>
+        </TableBody>
+      </Paper>
     </Wrapper>
-   
   );
 }
 

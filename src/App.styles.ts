@@ -2,7 +2,13 @@ import styled from 'styled-components'
 
 
 export const Wrapper = styled.div`
-    margin: 5px;
+    // margin: 5px;
+    display: block;
 
-
+.head {
+position: sticky;
+top: 0
+}
 `;
+
+
