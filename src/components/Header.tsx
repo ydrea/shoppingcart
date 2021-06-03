@@ -11,6 +11,8 @@ import {CartItemType} from '../App'
 import Logic from './Logo'
 import { Wrapper } from './Header.style';
 
+import CheckoutForm from './CheckoutForm';
+
 type Props = {
     cartItems: CartItemType[];
     setCartItems: React.Dispatch<React.SetStateAction<CartItemType[]>>; 
@@ -42,6 +44,8 @@ const Header: React.FC<Props> = ({addToCart, setCartItems, cartItems}) => {
     return (
       <Wrapper>
         <header className='header'>
+
+      <CheckoutForm />
         <Logic />
       <Drawer anchor='left' open={cartOpen} onClose={()=> setCartOpen(false)}>
         <Cart cartItems={cartItems} addToCart={addToCart} 

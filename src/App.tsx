@@ -1,15 +1,18 @@
 import {useState} from 'react';
 import {useQuery} from 'react-query';
 
-import Header from './components/Header';
-import LinearProgress from '@material-ui/core/LinearProgress';
-import Grid from '@material-ui/core/Grid';
 
-import { Paper, Table, TableBody, TableCell, TableContainer, TableHead, TablePagination, TableRow } from '@material-ui/core';
+//comps
+import Header from './components/Header';
 import Item from './components/Item'
 import Image from './components/Image'
-// styles
+
+//style
+import LinearProgress from '@material-ui/core/LinearProgress';
+import Grid from '@material-ui/core/Grid';
+import { Paper, Table, TableBody, TableCell, TableContainer, TableHead, TablePagination, TableRow } from '@material-ui/core';
 import {Wrapper} from './App.styles'
+import CheckoutForm from './components/CheckoutForm';
 
 export type CartItemType = {
   id: number;
