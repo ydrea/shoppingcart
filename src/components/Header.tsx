@@ -6,9 +6,9 @@ import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
 import { Button } from '@material-ui/core';
 import Cart from './Cart'
 
-import {CartItemType} from '../App'
+import {CartItemType} from './Home';
 
-import Logic from './Logo'
+import Logic from './Logo';
 import { Wrapper } from './Header.style';
 
 //router
