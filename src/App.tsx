@@ -11,6 +11,13 @@ import Image from './components/Image'
 // styles
 import {Wrapper} from './App.styles'
 
+//router
+import {
+  Switch, Route, Link,
+  BrowserRouter as Router
+} from 'react-router-dom';
+import Checkout from './components/Checkout';
+
 export type CartItemType = {
   id: number;
   title: string;
@@ -52,13 +59,16 @@ if (isLoading) return <LinearProgress/>
 if (error) return <div> Greška </div>
 
   return (
-    
     <Wrapper>
       <Paper >
         <TableHead className='head'> 
          <TableRow> 
           <TableCell>
+
+    <Router>
       <Header addToCart={handleAddToCart} cartItems={cartItems} setCartItems={setCartItems} />
+      <Route path='/checkout' component={Checkout} />
+    </Router>
           </TableCell>
          </TableRow>
       </TableHead> 

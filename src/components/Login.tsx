@@ -5,9 +5,6 @@ type LoginVals = {
  fName: string;
  lName: string;
  email: string;
- birthDate: number;
- address: string;
- zipCode: number
  gender: string;
  accept: string
 }
@@ -30,13 +27,6 @@ const Login = () => {
         <label htmlFor='email'>email:</label>
         <input {...register('email')} id='email' placeholder='email' />
 
-        <label htmlFor='birthDate'>Name:</label>
-        <input type='date' {...register('birthDate')} id='birthDate' />
-
-        <label htmlFor='address'>address:</label>
-        <input {...register('address')} id='address' placeholder='address' />
-        <label htmlFor='zipCode'>Name:</label>
-        <input {...register('zipCode')} id='zipCode' placeholder='ZIP code' />
 
 
         <label htmlFor='gender'>gender:</label>
