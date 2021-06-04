@@ -9,25 +9,22 @@ import { Paper, Table, TableBody, TableCell, TableContainer, TableHead, TablePag
 import Item from './components/Item'
 import Image from './components/Image'
 // styles
-import {Wrapper} from './App.styles'
+// import {Wrapper} from './App.styles'
 
 //router
 import {
   Switch, Route, Link,
   BrowserRouter as Router
 } from 'react-router-dom';
-import Checkout from './components/Checkout';
+import Home from './components/Home';
 
 
 const App = () => {
 
   return (
-    <Wrapper>
-
     <Router>
-      <Route path='/checkout' component={Checkout} />
+      <Home />
     </Router>
-    </Wrapper>
   );
 }
 

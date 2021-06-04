@@ -45,7 +45,6 @@ const Header: React.FC<Props> = ({addToCart, setCartItems, cartItems}) => {
     return (
       <Wrapper>
          <header className='header'>
-           
         <Logic />
         <Nav />
       <Drawer anchor='left' open={cartOpen} onClose={()=> setCartOpen(false)}>
