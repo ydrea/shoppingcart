@@ -5,11 +5,20 @@ import Badge from '@material-ui/core/Badge';
 import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
 import { Button } from '@material-ui/core';
 import Cart from './Cart'
+import SimpleModal from './Modal'
 
 import {CartItemType} from '../App'
 
 import Logic from './Logo'
 import { Wrapper } from './Header.style';
+
+//router
+import {
+  Switch, Route,
+  BrowserRouter as Router
+} from 'react-router-dom';
+import Nav from './Nav';
+import Checkout from './Checkout';
 
 type Props = {
     cartItems: CartItemType[];
@@ -41,8 +50,20 @@ const Header: React.FC<Props> = ({addToCart, setCartItems, cartItems}) => {
 
     return (
       <Wrapper>
+        
         <header className='header'>
+          <Router>
+          <Nav />
+          <Switch>
+
+          {/* <Route path='/' exact component={} /> */}
+         
+          <Route path='/modal' component={SimpleModal} />
+          <Route path='/checkout' component={Checkout} />
+          </Switch>
+          </Router>        
         <Logic />
+
       <Drawer anchor='left' open={cartOpen} onClose={()=> setCartOpen(false)}>
         <Cart cartItems={cartItems} addToCart={addToCart} 
         removeFromCart={handleRemoveFromCart}
