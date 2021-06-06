@@ -1,15 +1,9 @@
 import React from 'react'
-import { CartItemType } from './Home'
 import { Wrapper } from './CartItem.style'
-// import Item from './Item'
 import Button from '@material-ui/core/Button'
 
-type Props = {
-    item: CartItemType;
-    addToCart: (clickedItem: CartItemType) => void;
-    removeFromCart: (id: number) => void
-}
- const CartItem: React.FC<Props> = ({item, addToCart, removeFromCart}) => {
+
+ const CartItem: React.FC<any> = ({item}) => {
     return (
         <Wrapper>
             <div>
@@ -35,3 +29,12 @@ type Props = {
 }
 
 export default CartItem
+
+function removeFromCart(id: any): void {
+    throw new Error('Function not implemented.')
+}
+
+
+function addToCart(item: any): void {
+    throw new Error('Function not implemented.')
+}
