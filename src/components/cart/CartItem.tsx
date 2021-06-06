@@ -1,5 +1,5 @@
 import React from 'react'
-import { CartItemType } from './Home'
+import { CartItemType } from '../../App'
 import { Wrapper } from './CartItem.style'
 // import Item from './Item'
 import Button from '@material-ui/core/Button'
