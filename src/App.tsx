@@ -14,52 +14,36 @@ import {
   BrowserRouter as Router
 } from 'react-router-dom';
 import Home from './components/routes/Home';
-// import { UsersTypeProps } from './context/UserContext';
-
+import { CartItemContextProvider } from './context/ItemsContext';
+import {CartItemType} from './types/items'
 //types
-export type CartItemType = {
-  id: number;
-  title: string;
-  desc: string;
-  price: number;
-  date: string;
-  categoty: string;
-  userId: number;
-  imageUrl: string
-  quantity: number
-}
-
-
 
 const App = () => {
-// const [users, setUsers] = useState<{[key: string]: UsersTypeProps[]}>({}) 
 
-const [cartItems, cartItemsSet] = useState([] as CartItemType[]);
+// const [cartItems, cartItemsSet] = useState([] as CartItemType[]);
 
+const [items, itemsSet] = useState<{[key: string]: CartItemType[]}>({})
 
+const updateItems = (_items: {[key: string]: CartItemType[]} ) => {
+  itemsSet(_items)
+}
 
-const handleAddToCart = (clickedItem: CartItemType) => {
-  cartItemsSet(prev => {
-    let isItIn = prev.find(item => clickedItem.id === item.id)
-    if (isItIn) {
-      return prev.map(item => 
-        item.id === clickedItem.id ?
-        {...item, quantity: item.quantity + 1} : item        
-        ) 
-    }
-    return [...prev, {...clickedItem, quantity: 1 }]
-  });
-};
+const contextVals = {
+  items,
+  updateItems
+}
 
   return (
+    <CartItemContextProvider value={contextVals}> 
 <Wrapper>
 
 <Paper >
+
         <TableHead className='head'> 
          <TableRow> 
           <TableCell>
 
-          <Header addToCart={handleAddToCart} cartItems={cartItems} cartItemsSet={cartItemsSet} />
+          <Header />
           </TableCell>
          </TableRow>
       </TableHead> 
@@ -67,15 +51,14 @@ const handleAddToCart = (clickedItem: CartItemType) => {
         <TableBody>
          <TableRow> 
     <Router>
-    <Home addToCart={handleAddToCart} 
-    cartItems={cartItems} 
-    setCartItems={cartItemsSet} 
-    />
+    <Home />
     </Router>
       </TableRow>
         </TableBody>
       </Paper>
 </Wrapper>
+</CartItemContextProvider>
+
   );
 }
 
