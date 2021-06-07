@@ -6,8 +6,8 @@ import LinearProgress from '@material-ui/core/LinearProgress';
 import Grid from '@material-ui/core/Grid';
 
 import { Paper, Table, TableBody, TableCell, TableContainer, TableHead, TablePagination, TableRow } from '@material-ui/core';
-import Item from './Item'
-import Image from './Image'
+import Item from '../cart/Item'
+import Image from '../assets/Image'
 // styles
 import {Wrapper} from '../App.styles'
 

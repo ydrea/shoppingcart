@@ -1,14 +1,8 @@
 import CartItem from './CartItem'
 import {Wrapper} from './Cart.style'
-import {CartItemType} from './Home'
 
-type Props = {
-    cartItems: CartItemType[];
-    addToCart: (clickedItem: CartItemType) => void;
-    removeFromCart: (id: number) => void; 
-};
-
-const Cart: React.FC<Props> = ({cartItems, addToCart, removeFromCart}) => {
+const Cart 
+: React.FC = ({cartItems, addToCart, removeFromCart}) => {
 
 const calcTotal = (items: CartItemType[]) => 
     // console.log(items);
