@@ -1,36 +1,47 @@
-import {useState, useContext} from 'react';
+import React from 'react';
+import {useState, useContext, useCallback} from 'react';
 import {useQuery} from 'react-query';
 
-import Header from './components/Header';
-import LinearProgress from '@material-ui/core/LinearProgress';
-import Grid from '@material-ui/core/Grid';
+// import Header from './components/Header';
+// import Grid from '@material-ui/core/Grid';
 
-import { Paper, Table, TableBody, TableCell, TableContainer, TableHead, TablePagination, TableRow } from '@material-ui/core';
-import Item from './components/Item'
-import Image from './components/Image'
+// import { Paper, Table, TableBody, TableCell, TableContainer, TableHead, TablePagination, TableRow } from '@material-ui/core';
+// import Item from './components/Item'
+// import Image from './components/Image'
 // styles
 // import {Wrapper} from './App.styles'
 
-//router
+// //router
 import {
   Switch, Route, Link,
   BrowserRouter as Router
 } from 'react-router-dom';
-import Home from './components/Home';
-import { CITContext, itemsContextDefaultValue } from './context/ItemsContext';
+// import Home from './components/Home';
+import { ItemsContext, itemsContextDefaultValue } from './context/ItemsContext';
+import {CartItemType} from './types/items'
+// import Header from './components/Header';
+import { PostsList } from './components/PostsList';
+import Post from './components/Post';
 
 
-const App = () => {
-const {items} = useContext(CITContext)
-console.log (items)
+
+export default function App() {
+
+
+
+
 
   return (
-    <CITContext.Provider value={itemsContextDefaultValue}>
+    <ItemsContext.Provider value={itemsContextDefaultValue}>
+      
+      {/* <Header /> */}
     <Router>
-      <Home />
+      <PostsList />
+      <Post />
+      {/* <Home /> */}
     </Router>
-    </CITContext.Provider>
+    </ItemsContext.Provider>
   );
 }
 
-export default App;
+
