@@ -1,4 +1,4 @@
-import {useState} from 'react';
+import {useState, useContext} from 'react';
 import {useQuery} from 'react-query';
 
 import Header from './components/Header';
@@ -17,14 +17,19 @@ import {
   BrowserRouter as Router
 } from 'react-router-dom';
 import Home from './components/Home';
+import { CITContext, itemsContextDefaultValue } from './context/ItemsContext';
 
 
 const App = () => {
+const {items} = useContext(CITContext)
+console.log (items)
 
   return (
+    <CITContext.Provider value={itemsContextDefaultValue}>
     <Router>
       <Home />
     </Router>
+    </CITContext.Provider>
   );
 }
 

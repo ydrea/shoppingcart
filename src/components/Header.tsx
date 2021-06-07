@@ -1,18 +1,15 @@
-import {useState} from 'react';
-
+import {useState, useContext, createContext} from 'react';
 import Drawer from '@material-ui/core/Drawer';
 import Badge from '@material-ui/core/Badge';
 import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
 import { Button } from '@material-ui/core';
 import Cart from './Cart'
-
 import {CartItemType} from './Home';
-
 import Logic from './Logo';
 import { Wrapper } from './Header.style';
-
 //router
 import Nav from './Nav';
+//context
 
 type Props = {
     cartItems: CartItemType[];
@@ -24,7 +21,12 @@ type Props = {
 const Header: React.FC<Props> = ({addToCart, setCartItems, cartItems}) => {
   const [cartOpen, setCartOpen] = useState(false);
 
-//   const [cartItems, setCartItems] = useState([] as CartItemType[]);
+const typeValues = {
+ cartItems,
+ setCartItems,
+ addToCart
+}
+const ReContext = createContext(typeValues);
 
   const getTotalItems = (items: CartItemType[]) => items.reduce((acc: number, item) => acc + item.quantity, 0);
 
@@ -59,7 +61,6 @@ const Header: React.FC<Props> = ({addToCart, setCartItems, cartItems}) => {
       </Button>
       </header>
       </Wrapper>
-
     )
 }
 
