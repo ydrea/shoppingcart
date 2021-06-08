@@ -1,15 +1,18 @@
-import React from 'react'
-import { CartItemType } from './Home'
+
 import { Wrapper } from './CartItem.style'
 // import Item from './Item'
 import Button from '@material-ui/core/Button'
+//context
+import {CartItemType} from '../types/workshops'
+import {cartReducer} from "../context/CartContext";
+
 
 type Props = {
-    item: CartItemType;
-    addToCart: (clickedItem: CartItemType) => void;
-    removeFromCart: (id: number) => void
+    item: CartItemType,
+    cartContext: any 
+
 }
- const CartItem: React.FC<Props> = ({item, addToCart, removeFromCart}) => {
+ const CartItem: React.FC<Props> = ({item, cartContext}) => {
     return (
         <Wrapper>
             <div>
@@ -22,12 +25,12 @@ type Props = {
                 <Button 
                 size='small'
                 variant='contained'
-                onClick={() => removeFromCart(item.id)}> - </Button>  
+                onClick={() => cartContext.cartDispatch({ type: 'remove_item', payload: item })}> - </Button>  
                 <p> {item.price} </p>
                 <Button 
                 size='small'
                 variant='contained'
-                onClick={() => addToCart(item)}> + </Button>  
+                onClick={() => cartContext.cartDispatch({type: 'add_item', payload: item})}> + </Button>  
                  </div>
             </div>
         </Wrapper>

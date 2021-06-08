@@ -1,22 +1,23 @@
 import Button from '@material-ui/core/Button'
-//types
-import {CartItemType} from './Home'
+//context
+import {CartItemType} from '../types/workshops'
+import {cartReducer} from "../context/CartContext";
+
 //styles
 import {Wrapper} from './Item.style'
 
-type Props = {
-    item: CartItemType;
-    handleAddToCart: (clickedItem: CartItemType) => void
+export type ItemProps = {
+    item: CartItemType,
+    cartContext: any 
 }
-const Item: React.FC<Props> = ({
-    item, handleAddToCart
-}) => (
+
+const Item: React.FC<ItemProps> = ({ item, cartContext }) => (
     <Wrapper>
         <div>
             <h3>{item.title}</h3>
             <p> {item.desc} </p>
         </div>
-        <Button onClick={() => handleAddToCart(item)}> Add to cart </Button>
+        <Button onClick={() => cartContext.cartDispatch({ type: 'add_item', payload: item })}> Add to cart </Button>
         </Wrapper>
     )
 

@@ -1,7 +1,7 @@
 import {useState, useContext} from 'react';
 import {useQuery} from 'react-query';
 
-import Header from './Header';
+import Header from '../cart/Header';
 import LinearProgress from '@material-ui/core/LinearProgress';
 import Grid from '@material-ui/core/Grid';
 
@@ -11,37 +11,19 @@ import Image from '../assets/Image'
 // styles
 import {Wrapper} from '../App.styles'
 
-//router
-import {
-  Switch, Route, Link,
-  BrowserRouter as Router
-} from 'react-router-dom';
-import Checkout from './Checkout';
-import { CITContext } from '../context/ItemsContext';
+//context
+import {CartItemType} from '../types/workshops'
+import CartContext from "../context/CartContext";
 
-// export type CartItemType = {
-//   id: number;
-//   title: string;
-//   desc: string;
-//   price: number;
-//   date: string;
-//   categoty: string;
-//   userId: number;
-//   imageUrl: string
-//   quantity: number
-// }
+export interface HomeProps {
+data: CartItemType
+} 
 
-// const getProducts = async () : Promise <CartItemType[]> => 
-// await (await fetch ('http://localhost:8000/workshops')).json();
+const Home: React.FC <HomeProps> = (props) => {
 
-
-const Home = () => {
-
-  const {cartItems} = useContext(CITContext)
-  console.log ({'C': cartItems});
+    const { data } = props;
+    const cartContext = useContext(CartContext);
   
-  
-
   return (
     <Wrapper>
       <Paper >
@@ -58,7 +40,7 @@ const Home = () => {
         {data?.map(item => ( 
           <Grid item key={item.id} xs={12} sm={4}> 
           <Image />
-            <Item item={item} handleAddToCart={handleAddToCart} />
+            <Item item={item} cartContext={cartContext} />
           </Grid>
         ) ) }
              </Grid>

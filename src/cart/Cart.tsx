@@ -1,8 +1,18 @@
 import CartItem from './CartItem'
 import {Wrapper} from './Cart.style'
+//context
+import {CartItemType} from '../types/workshops'
+import CartContext, {cartReducer} from "../context/CartContext";
+import {useState, useContext} from 'react';
 
-const Cart 
-: React.FC = ({cartItems, addToCart, removeFromCart}) => {
+export interface ICartItemComponentProps {
+    item: CartItemType;
+    quantity: number;
+}
+
+const Cart: React.FunctionComponent<ICartItemComponentProps> = (props) => {
+    const { item, quantity } = props;
+    const cartContext = useContext(CartContext);
 
 const calcTotal = (items: CartItemType[]) => 
     // console.log(items);
@@ -11,16 +21,13 @@ const calcTotal = (items: CartItemType[]) =>
     return (
         <Wrapper>
             <h3> Your shopping cart </h3>
-            {cartItems.length === 0 ? <p>prazna košarica</p> : null}
-            {cartItems.map(item => (
-                <CartItem 
-                key={item.id}
+            {item.map(it => (
+                <CartItem cartContext={cartContext}
+                key={it.id}
                 item={item}
-                addToCart={addToCart}
-                removeFromCart={removeFromCart}
                 />
             ) ) }
-            <h3> Total: {calcTotal(cartItems)} </h3>
+            {/* <h3> Total: {calcTotal(items)} </h3> */}
         </Wrapper>
     )
 }

@@ -9,7 +9,7 @@ type LoginVals = {
  accept: string
 }
 
-const Login = () => {
+const Detail = () => {
     const {register, handleSubmit, formState: {errors} } = useForm<LoginVals>();
 
 
@@ -42,4 +42,4 @@ const Login = () => {
     ) 
 }
 
-export default Login
+export default Detail

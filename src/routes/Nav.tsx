@@ -4,7 +4,7 @@ import {Link, Switch, Route} from 'react-router-dom';
 import Checkout from './Checkout';
 import SimpleModal from './Modal'
 import Home from './Home';
-import Login from './Login';
+import Login from './Detail';
 
 const Nav = () => {
     return (
